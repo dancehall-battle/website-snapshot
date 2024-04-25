@@ -1,0 +1,574 @@
+
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/endDate> "2019-09-14" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/endDate> "2019-09-14" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/startDate> "2019-09-14" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/startDate> "2019-09-14" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/joelalvarez> .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/joelalvarez> _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/endDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/startDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/mika> .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/endDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/startDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/elenachebykina> .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/katys> .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <http://schema.org/endDate> "2019-06-01" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <http://schema.org/startDate> "2019-06-01" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/saraf> _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/cdcfestival20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <http://schema.org/endDate> "2024-04-19" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <http://schema.org/startDate> "2024-04-19" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/joelalvarez> _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/nikamadspirit> .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/name> "Big League" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/louvto> .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/inviteOnly> "yes" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/aliyaashadullina> .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/kristina> .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/endDate> "2024-04-20" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/name> "Big League Battle" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/startDate> "2024-04-20" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dikilla> .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/inviteOnly> "yes" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <http://schema.org/endDate> "2022-03-26" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <http://schema.org/name> "1 vs 1 male" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <http://schema.org/startDate> "2022-03-26" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/b1d6f849> _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <http://schema.org/endDate> "2023-05-20" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <http://schema.org/startDate> "2023-05-20" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/8af13662> _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/itslikehome20231pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/name> "7 to Clash" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/sabinafattakhova> .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/endDate> "2024-03-16" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/name> "Queen Gang" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/name> "Queen Gang" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/startDate> "2024-03-16" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/gender> "female" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/304cb8a9> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/304cb8a9> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/uu84fc5821> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/uu84fc5821> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/endDate> "2024-03-16" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/name> "Mash Up di Yaard" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/name> "Mash Up di Yaard" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/startDate> "2024-03-16" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/2a7184f1> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/2a7184f1> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/innahot> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/innahot> _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/endDate> "2023-06-24" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/startDate> "2023-06-24" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/bab7d8df> .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/rootscamp20221all> <http://schema.org/endDate> "2022-09-17" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <http://schema.org/startDate> "2022-09-17" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/bbc25dbf> _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/rootscamp20221all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://schema.org/name> "Víctor Vásquez" .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://schema.org/name> "Víctor Vásquez" _:b0 .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/2a7184f1> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/2a7184f1> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://schema.org/name> "Júlia" .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://schema.org/name> "Júlia" _:b0 .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/304cb8a9> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/304cb8a9> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/8af13662> <http://schema.org/name> "Alex Casa" _:b0 .
+<https://dancehallbattle.org/dancer/8af13662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/8af13662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/8af13662> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://schema.org/name> "Aliya Ashadullina" .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/b1d6f849> <http://schema.org/name> "Anita" _:b0 .
+<https://dancehallbattle.org/dancer/b1d6f849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/b1d6f849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/b1d6f849> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://schema.org/name> "Valerie Maene" .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/bab7d8df> <https://dancehallbattle.org/ontology/representsCountry> "be" .
+<https://dancehallbattle.org/dancer/bbc25dbf> <http://schema.org/name> "Sergio Roque Guevara" _:b0 .
+<https://dancehallbattle.org/dancer/bbc25dbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/bbc25dbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/bbc25dbf> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/dikilla> <http://schema.org/name> "DIKILLA" .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/dikilla> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://schema.org/name> "Elena Chebykina" .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/elenachebykina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/innahot> <http://schema.org/name> "Inna Hot" .
+<https://dancehallbattle.org/dancer/innahot> <http://schema.org/name> "Inna Hot" _:b0 .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/innahot> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/dancer/innahot> <https://dancehallbattle.org/ontology/representsCountry> "ua" _:b0 .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://schema.org/name> "Joel Álvarez" .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://schema.org/name> "Joel Álvarez" _:b0 .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/joelalvarez> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/joelalvarez> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/katys> <http://schema.org/name> "Katys" .
+<https://dancehallbattle.org/dancer/katys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/katys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/katys> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/kristina> <http://schema.org/name> "Kristina" .
+<https://dancehallbattle.org/dancer/kristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/kristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/kristina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/louvto> <http://schema.org/name> "Louvto" .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/louvto> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/mika> <http://schema.org/name> "Milka" .
+<https://dancehallbattle.org/dancer/mika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/mika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/mika> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://schema.org/name> "Nika Mad Spirit" .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/nikamadspirit> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://schema.org/name> "Salamander" .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/saraf> <http://schema.org/name> "Saraf" _:b0 .
+<https://dancehallbattle.org/dancer/saraf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/saraf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/saraf> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://schema.org/name> "Alba" .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://schema.org/name> "Alba" _:b0 .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/uu84fc5821> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/uu84fc5821> <https://dancehallbattle.org/ontology/representsCountry> "es" _:b0 .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/endDate> "2019-09-14" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/location> "es" _:b0 .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/name> "All About Dancehall" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/name> "All About Dancehall" _:b0 .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/startDate> "2019-09-14" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/allaboutdancehall20191all> .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/allaboutdancehall20191all> _:b0 .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/endDate> "2019-08-31" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/name> "Big Up Kemp Europe" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/startDate> "2019-08-24" .
+<https://dancehallbattle.org/event/buke2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/buke20191all> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/buke20192all> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/cdcfestival2019> <http://schema.org/location> "de" _:b0 .
+<https://dancehallbattle.org/event/cdcfestival2019> <http://schema.org/name> "CDC Festival" _:b0 .
+<https://dancehallbattle.org/event/cdcfestival2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/cdcfestival2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/cdcfestival20191all> _:b0 .
+<https://dancehallbattle.org/event/convecaohiphopdance2024> <http://schema.org/location> "pt" _:b0 .
+<https://dancehallbattle.org/event/convecaohiphopdance2024> <http://schema.org/name> "15ª Convenção Hip Hop Dance 2024" _:b0 .
+<https://dancehallbattle.org/event/convecaohiphopdance2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/convecaohiphopdance2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/convecaohiphopdance20241all> _:b0 .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/name> "Dancehall International Europe" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/startDate> "2019-04-26" .
+<https://dancehallbattle.org/event/dhie2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20191all> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20191allyes> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20192all> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/endDate> "2024-04-21" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/name> "Dancehall Internatioal Europe 2024" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/startDate> "2024-04-19" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> .
+<https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/innadimiddle2022> <http://schema.org/location> "it" _:b0 .
+<https://dancehallbattle.org/event/innadimiddle2022> <http://schema.org/name> "Inna Di Middle" _:b0 .
+<https://dancehallbattle.org/event/innadimiddle2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/innadimiddle2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/innadimiddle20221all1vs1male> _:b0 .
+<https://dancehallbattle.org/event/itslikehome2023> <http://schema.org/location> "ee" _:b0 .
+<https://dancehallbattle.org/event/itslikehome2023> <http://schema.org/name> "It's Like Home" _:b0 .
+<https://dancehallbattle.org/event/itslikehome2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/itslikehome2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/itslikehome20231pro> _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/endDate> "2024-03-17" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/location> "es" _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/name> "Mad Yaard Weekend" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/name> "Mad Yaard Weekend" _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> _:b0 .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/endDate> "2023-06-25" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/name> "Massive Weekend Vol. 1" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/startDate> "2023-06-24" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/massiveweekendvol1> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/massiveweekendvol11all> .
+<https://dancehallbattle.org/event/massiveweekendvol1> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/rootscamp2022> <http://schema.org/location> "ca" _:b0 .
+<https://dancehallbattle.org/event/rootscamp2022> <http://schema.org/name> "Roots Camp" _:b0 .
+<https://dancehallbattle.org/event/rootscamp2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rootscamp2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rootscamp20221all> _:b0 .
+
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/endDate> "2024-04-20" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/name> "Big League Battle" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <http://schema.org/startDate> "2024-04-20" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dikilla> .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/inviteOnly> "yes" .
+<https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/dikilla> <http://schema.org/name> "DIKILLA" .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/dikilla> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/endDate> "2024-04-21" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/name> "Dancehall Internatioal Europe 2024" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/startDate> "2024-04-19" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhieurope20241allyesbigleaguebattle> .
+<https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/name> "7 to Clash" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/sabinafattakhova> .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/name> "Queen Gang" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/304cb8a9> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/uu84fc5821> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/endDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/name> "Mash Up di Yaard" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/2a7184f1> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/innahot> .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://schema.org/name> "Víctor Vásquez" .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/2a7184f1> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://schema.org/name> "Júlia" .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/304cb8a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/304cb8a9> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/dancer/innahot> <http://schema.org/name> "Inna Hot" .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/innahot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/innahot> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://schema.org/name> "Salamander" .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://schema.org/name> "Alba" .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/uu84fc5821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/uu84fc5821> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/endDate> "2024-03-17" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/name> "Mad Yaard Weekend" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://schema.org/startDate> "2024-03-16" .
+<https://dancehallbattle.org/event/madyaardweekend2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20241all7toclash> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allfemalequeengang> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madyaardweekend20242allmashupdiyaard> .
+<https://dancehallbattle.org/event/madyaardweekend2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/endDate> "2023-06-24" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/startDate> "2023-06-24" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/bab7d8df> .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/massiveweekendvol11all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://schema.org/name> "Valerie Maene" .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/bab7d8df> <https://dancehallbattle.org/ontology/representsCountry> "be" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/endDate> "2023-06-25" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/name> "Massive Weekend Vol. 1" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/startDate> "2023-06-24" .
+<https://dancehallbattle.org/event/massiveweekendvol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/massiveweekendvol1> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/massiveweekendvol11all> .
+<https://dancehallbattle.org/event/massiveweekendvol1> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/endDate> "2019-09-14" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <http://schema.org/startDate> "2019-09-14" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/joelalvarez> .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/allaboutdancehall20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://schema.org/name> "Joel Álvarez" .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/joelalvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/joelalvarez> <https://dancehallbattle.org/ontology/representsCountry> "es" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/endDate> "2019-09-14" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/name> "All About Dancehall" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://schema.org/startDate> "2019-09-14" .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/allaboutdancehall20191all> .
+<https://dancehallbattle.org/event/allaboutdancehall2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/endDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/buke20191all> <http://schema.org/startDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/mika> .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/buke20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/endDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/buke20192all> <http://schema.org/startDate> "2019-08-29" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/elenachebykina> .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/katys> .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/buke20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://schema.org/name> "Elena Chebykina" .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/elenachebykina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/elenachebykina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/katys> <http://schema.org/name> "Katys" .
+<https://dancehallbattle.org/dancer/katys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/katys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/katys> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/mika> <http://schema.org/name> "Milka" .
+<https://dancehallbattle.org/dancer/mika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/mika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/mika> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/endDate> "2019-08-31" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/name> "Big Up Kemp Europe" .
+<https://dancehallbattle.org/event/buke2019> <http://schema.org/startDate> "2019-08-24" .
+<https://dancehallbattle.org/event/buke2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/buke20191all> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/buke20192all> .
+<https://dancehallbattle.org/event/buke2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhie20191all> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/nikamadspirit> .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhie20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/name> "Big League" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/louvto> .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/inviteOnly> "yes" .
+<https://dancehallbattle.org/battle/dhie20191allyes> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhie20192all> <http://schema.org/startDate> "2019-04-28" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/aliyaashadullina> .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/kristina> .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://schema.org/name> "Aliya Ashadullina" .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/aliyaashadullina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/kristina> <http://schema.org/name> "Kristina" .
+<https://dancehallbattle.org/dancer/kristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/kristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/kristina> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/louvto> <http://schema.org/name> "Louvto" .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/louvto> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://schema.org/name> "Nika Mad Spirit" .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/nikamadspirit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/nikamadspirit> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/endDate> "2019-04-28" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/name> "Dancehall International Europe" .
+<https://dancehallbattle.org/event/dhie2019> <http://schema.org/startDate> "2019-04-26" .
+<https://dancehallbattle.org/event/dhie2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20191all> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20191allyes> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20192all> .
+<https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .

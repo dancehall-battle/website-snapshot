@@ -1,0 +1,24 @@
+
+<https://dancehallbattle.org/battle/danshallfestival20192all> <http://schema.org/endDate> "2019-08-24" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <http://schema.org/startDate> "2019-08-24" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/adilock> _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/morris> _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/danshallfestival20192all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/adilock> <http://schema.org/name> "Adilock" _:b0 .
+<https://dancehallbattle.org/dancer/adilock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/adilock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/adilock> <https://dancehallbattle.org/ontology/representsCountry> "ma" _:b0 .
+<https://dancehallbattle.org/dancer/morris> <http://schema.org/name> "Morris" _:b0 .
+<https://dancehallbattle.org/dancer/morris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/morris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/morris> <https://dancehallbattle.org/ontology/representsCountry> "se" _:b0 .
+<https://dancehallbattle.org/event/danshallfestival2019> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/danshallfestival2019> <http://schema.org/name> "Danshall Festival" _:b0 .
+<https://dancehallbattle.org/event/danshallfestival2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/danshallfestival2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/danshallfestival20192all> _:b0 .

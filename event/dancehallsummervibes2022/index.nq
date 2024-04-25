@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <http://schema.org/endDate> "2022-06-26" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <http://schema.org/name> "Clash" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <http://schema.org/startDate> "2022-06-26" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/105fe002> .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/105fe002> <http://schema.org/name> "Alice" .
+<https://dancehallbattle.org/dancer/105fe002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/105fe002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/105fe002> <https://dancehallbattle.org/ontology/representsCountry> "pt" .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <http://schema.org/endDate> "2022-06-26" .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <http://schema.org/location> "pt" .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <http://schema.org/name> "Dancehall Summer Vibes" .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <http://schema.org/startDate> "2022-06-25" .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallsummervibes20221allclash> .
+<https://dancehallbattle.org/event/dancehallsummervibes2022> <https://dancehallbattle.org/ontology/instagram> "dancehall_summer_vibes" .

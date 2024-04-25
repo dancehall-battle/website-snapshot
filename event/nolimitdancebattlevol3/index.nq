@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <http://schema.org/startDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/age> "adults" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/9eaf06da> .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <http://schema.org/startDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/age> "kids" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/9fe5b618> .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/9eaf06da> <http://schema.org/name> "Kristina Panova" .
+<https://dancehallbattle.org/dancer/9eaf06da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/9eaf06da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/9eaf06da> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://schema.org/name> "Speedy" .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/9fe5b618> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <http://schema.org/name> "No Limit Dance Battle Vol. 3" .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <http://schema.org/startDate> "2020-03-15" .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/nolimitdancebattlevol31alladults> .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/nolimitdancebattlevol31allkids> .
+<https://dancehallbattle.org/event/nolimitdancebattlevol3> <https://dancehallbattle.org/ontology/instagram> "nolimitdancebattle" .

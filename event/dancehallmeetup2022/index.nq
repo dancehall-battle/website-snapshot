@@ -1,0 +1,50 @@
+
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <http://schema.org/endDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <http://schema.org/name> "1 vs 1 male" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <http://schema.org/startDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/d2cc4eae> .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <http://schema.org/endDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <http://schema.org/startDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/weronikaklodkowska> .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <http://schema.org/endDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <http://schema.org/startDate> "2022-10-16" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/ebfe423b> .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/weronikaklodkowska> .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallmeetup20222all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/d2cc4eae> <http://schema.org/name> "Julia Sułecka" .
+<https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/d2cc4eae> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/dancer/ebfe423b> <http://schema.org/name> "Karolina Butowska" .
+<https://dancehallbattle.org/dancer/ebfe423b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/ebfe423b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/ebfe423b> <https://dancehallbattle.org/ontology/representsCountry> "(null)" .
+<https://dancehallbattle.org/dancer/weronikaklodkowska> <http://schema.org/name> "Weronika Kłódkowska" .
+<https://dancehallbattle.org/dancer/weronikaklodkowska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/weronikaklodkowska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/weronikaklodkowska> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/endDate> "2022-10-16" .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/name> "Dancehall Meet Up" .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/startDate> "2022-10-15" .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallmeetup20221all1vs1male> .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallmeetup20221allfemale> .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallmeetup20222all> .
+<https://dancehallbattle.org/event/dancehallmeetup2022> <https://dancehallbattle.org/ontology/instagram> "dancehallmeetup" .

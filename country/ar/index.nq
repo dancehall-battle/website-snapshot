@@ -1,0 +1,37 @@
+
+<https://dancehallbattle.org/battle/dmw-france-20201all> <http://schema.org/endDate> "2020-02-23" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <http://schema.org/startDate> "2020-02-23" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/242ee0c8> _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dmw-france-20201all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <http://schema.org/endDate> "2022-11-11" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <http://schema.org/name> "Bruk It Back" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <http://schema.org/startDate> "2022-11-11" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/67a013f3> _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/gingerroots20221allbrukitback> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/242ee0c8> <http://schema.org/name> "Facu Vera Ramirez" _:b0 .
+<https://dancehallbattle.org/dancer/242ee0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/242ee0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/242ee0c8> <https://dancehallbattle.org/ontology/representsCountry> "ar" _:b0 .
+<https://dancehallbattle.org/dancer/67a013f3> <http://schema.org/name> "Lili" _:b0 .
+<https://dancehallbattle.org/dancer/67a013f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/67a013f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/67a013f3> <https://dancehallbattle.org/ontology/representsCountry> "ar" _:b0 .
+<https://dancehallbattle.org/event/dmw-france-2020> <http://schema.org/location> "fr" _:b0 .
+<https://dancehallbattle.org/event/dmw-france-2020> <http://schema.org/name> "Dancehall Master World" _:b0 .
+<https://dancehallbattle.org/event/dmw-france-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dmw-france-2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dmw-france-20201all> _:b0 .
+<https://dancehallbattle.org/event/gingerroots2022> <http://schema.org/location> "be" _:b0 .
+<https://dancehallbattle.org/event/gingerroots2022> <http://schema.org/name> "Ginger Roots" _:b0 .
+<https://dancehallbattle.org/event/gingerroots2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/gingerroots2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/gingerroots20221allbrukitback> _:b0 .

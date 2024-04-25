@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <http://schema.org/endDate> "2024-01-13" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <http://schema.org/startDate> "2024-01-13" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/age> "18+" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/1dbba349> .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/linkup20241all18%2B> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/1dbba349> <http://schema.org/name> "Sabrina" .
+<https://dancehallbattle.org/dancer/1dbba349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/1dbba349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/1dbba349> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/event/linkup2024> <http://schema.org/endDate> "2024-01-14" .
+<https://dancehallbattle.org/event/linkup2024> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/linkup2024> <http://schema.org/name> "Link up. Fi Wi Dancehall" .
+<https://dancehallbattle.org/event/linkup2024> <http://schema.org/startDate> "2024-01-13" .
+<https://dancehallbattle.org/event/linkup2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/linkup2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkup20241all18%2B> .
+<https://dancehallbattle.org/event/linkup2024> <https://dancehallbattle.org/ontology/instagram> "linkup.fiwidancehall" .

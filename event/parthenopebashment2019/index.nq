@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <http://schema.org/endDate> "2019-11-16" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <http://schema.org/startDate> "2019-11-16" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/age> "adults" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/oscar> .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/parthenopebashment20191alladults> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <http://schema.org/endDate> "2019-11-16" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <http://schema.org/startDate> "2019-11-16" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/age> "kids" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/89bad925> .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/parthenopebashment20191allkids> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/89bad925> <http://schema.org/name> "Giovanna Pedata" .
+<https://dancehallbattle.org/dancer/89bad925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/89bad925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/89bad925> <https://dancehallbattle.org/ontology/representsCountry> "it" .
+<https://dancehallbattle.org/dancer/oscar> <http://schema.org/name> "Oscar" .
+<https://dancehallbattle.org/dancer/oscar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/oscar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/oscar> <https://dancehallbattle.org/ontology/representsCountry> "it" .
+<https://dancehallbattle.org/event/parthenopebashment2019> <http://schema.org/endDate> "2019-11-16" .
+<https://dancehallbattle.org/event/parthenopebashment2019> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/parthenopebashment2019> <http://schema.org/name> "Parthenope Bashment" .
+<https://dancehallbattle.org/event/parthenopebashment2019> <http://schema.org/startDate> "2019-11-16" .
+<https://dancehallbattle.org/event/parthenopebashment2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/parthenopebashment2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/parthenopebashment20191alladults> .
+<https://dancehallbattle.org/event/parthenopebashment2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/parthenopebashment20191allkids> .
+<https://dancehallbattle.org/event/parthenopebashment2019> <https://dancehallbattle.org/ontology/instagram> "parthenopebashment" .

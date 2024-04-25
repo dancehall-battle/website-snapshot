@@ -1,0 +1,36 @@
+
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <http://schema.org/endDate> "2019-07-22" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <http://schema.org/startDate> "2019-07-22" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/anastasiabogdanova> .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/vverhdancecamp20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <http://schema.org/endDate> "2019-07-22" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <http://schema.org/startDate> "2019-07-22" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/anastasiabogdanova> .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/valeriezhefrua> .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/vverhdancecamp20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://schema.org/name> "Anastasia Bogdanova" .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://schema.org/name> "Valérie Zhefrua" .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <http://schema.org/endDate> "2019-07-29" .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <http://schema.org/name> "Vverh Dance Camp 2019" .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <http://schema.org/startDate> "2019-07-19" .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/vverhdancecamp20191all> .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/vverhdancecamp20192all> .
+<https://dancehallbattle.org/event/vverhdancecamp2019> <https://dancehallbattle.org/ontology/instagram> "vverhdancecamp_prim" .

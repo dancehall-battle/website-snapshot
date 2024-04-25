@@ -1,0 +1,351 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+table {
+    table-layout: auto;
+}
+
+a {
+    color: #862b20
+}
+
+a:hover {
+    color: #601e17;
+}
+
+#logo {
+    width: 350px;
+    max-width: 80vw;
+}
+
+#title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.year {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.flag-icon {
+    margin-left: 3px;
+}
+
+.date {
+    min-width: 80px;
+}
+
+#upcoming-events .date {
+    width: 160px;
+}
+
+#upcoming-events button.more-instagrams {
+    visibility: hidden;
+    display: none;
+    color: #862b20
+}
+#upcoming-events button.more-instagrams:hover {
+    color: #862b20;
+    cursor: pointer;
+}
+
+#event-battles .permanent-date {
+    width: 100px;
+}
+
+.category {
+    width: 100px;
+}
+
+.more-information {
+    width: 110px;
+}
+
+.winner {
+    width: 180px;
+}
+
+.event {
+    min-width: 150px;
+}
+
+.flag-icon {
+    outline: 1px solid #ddd;
+}
+
+.event-cat {
+    display: none;
+    visibility: hidden;
+}
+
+.details-sm {
+    display: none;
+    visibility: hidden;
+}
+
+#blogpost {
+    margin-top: 20px;
+}
+
+th {
+    border-top: 0!important;
+}
+
+footer {
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
+#footer-links a, #social-media a {
+    color: dimgrey;
+}
+
+#footer-links {
+    margin-bottom: 7px;
+}
+
+.grey-bckgrnd {
+    background-color: #f2f2f2
+}
+
+#years {
+    text-align: center;
+    font-size: 18px;
+}
+
+.country-title, .battle-title, .page-title {
+    margin-top: 30px;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    outline: 1px solid #ddd;
+}
+
+#country-list-title, #dancer-list-title {
+    margin-bottom: 30px;
+}
+
+.kg-url {
+    cursor: pointer;
+}
+
+.hidden {
+    visibility: hidden;
+    display: none;
+}
+
+.letter-list ul {
+    list-style: none;
+}
+
+.navbar-brand {
+    visibility: hidden;
+    display: none;
+    font-size: 15px;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #862b20
+}
+
+#country-events .permanent-date {
+    width: 200px;
+}
+
+.dancer-instagram {
+    margin-bottom: 40px;
+}
+
+td.cell.middle {
+    vertical-align : middle;
+}
+
+#last-updated {
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+/* Ranking page */
+
+.ranking {
+    padding-left: 10px;
+}
+
+#explain-ranking table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 30px;
+}
+#explain-ranking table th {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#explain-ranking table td, #explain-ranking table th {
+    border: 1px solid black;
+}
+#explain-ranking table tr:first-child td, #explain-ranking table tr:first-child th {
+    border-top: 0;
+}
+#explain-ranking table tr td:first-child, #explain-ranking table tr th:first-child {
+    border-left: 0;
+}
+#explain-ranking table tr:last-child td, #explain-ranking table tr:last-child th {
+    border-bottom: 0;
+}
+#explain-ranking table tr td:last-child, #explain-ranking table tr th:last-child {
+    border-right: 0;
+}
+
+/* FAQ page */
+.question {
+    padding-top: 20px;
+}
+
+@media (min-width: 992px) {
+    .navbar-nav {
+        float: none;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+    }
+
+    .navbar-nav > li {
+        display: inline-block;
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    #title {
+        visibility: hidden;
+        display: none;
+    }
+
+    .navbar-brand {
+        visibility: visible;
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 700px){
+    .container {
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width: 766px){
+    .winner {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 575px){
+    .country-4 {
+        padding-bottom: 0px!important;
+    }
+    .country-item {
+        padding-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    .event {
+        min-width: 120px;
+    }
+
+    #title {
+        padding-bottom: 20px;
+    }
+
+    .date, .category {
+        display: none;
+        visibility: hidden;
+    }
+
+    #event-battles .permanent-date, #event-battles .judges {
+        display: none;
+        visibility: hidden;
+    }
+
+    #event-battles .category {
+        display: table-cell;
+        visibility: visible;
+        border-bottom-width: 1px;
+    }
+
+    .details-sm {
+        display: table-row;
+        visibility: visible;
+    }
+
+    .event-row > td {
+        padding-bottom: 0px;
+    }
+
+    .details-sm > td {
+        padding-top: 0px;
+        border-top: none;
+    }
+
+    #country-events .permanent-date {
+        width: 120px;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    .event {
+        min-width: 120px;
+    }
+
+    #title {
+        padding-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    table {
+        font-size: 14px;
+    }
+
+    #title h1 {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 320px){
+    .category {
+        display: none;
+        visibility: hidden;
+    }
+
+    .event-cat {
+        display: block;
+        visibility: visible;
+    }
+
+    #title h1 {
+        font-size: 30px;
+    }
+
+    #title {
+        padding-bottom: 10px;
+    }
+
+    #upcoming-events button.more-instagrams {
+        visibility: visible;
+        display: block;
+    }
+
+    #upcoming-events a.normal {
+        visibility: hidden;
+        display: none;
+    }
+}

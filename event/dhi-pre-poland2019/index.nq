@@ -1,0 +1,40 @@
+
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <http://schema.org/endDate> "2019-03-02" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <http://schema.org/startDate> "2019-03-02" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/agataligas> .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20191all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <http://schema.org/endDate> "2019-03-02" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <http://schema.org/startDate> "2019-03-02" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/agatasofresh> .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/mati> .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhi-pre-poland20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/agataligas> <http://schema.org/name> "Agata Ligas" .
+<https://dancehallbattle.org/dancer/agataligas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/agataligas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/agataligas> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/dancer/agatasofresh> <http://schema.org/name> "Agata So Fresh" .
+<https://dancehallbattle.org/dancer/agatasofresh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/agatasofresh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/agatasofresh> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/dancer/mati> <http://schema.org/name> "Mati" .
+<https://dancehallbattle.org/dancer/mati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/mati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/mati> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <http://schema.org/endDate> "2019-03-03" .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <http://schema.org/name> "Dancehall International Preselections Poland" .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <http://schema.org/startDate> "2019-03-01" .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhi-pre-poland20191all> .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhi-pre-poland20192all> .
+<https://dancehallbattle.org/event/dhi-pre-poland2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .

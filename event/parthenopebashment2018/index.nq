@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <http://schema.org/endDate> "2018-11-17" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <http://schema.org/startDate> "2018-11-17" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/madmike> .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/parthenopebashment20181all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/madmike> <http://schema.org/name> "Mad Mike" .
+<https://dancehallbattle.org/dancer/madmike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/madmike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/madmike> <https://dancehallbattle.org/ontology/representsCountry> "it" .
+<https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/endDate> "2018-11-17" .
+<https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/name> "Parthenope Bashment" .
+<https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/startDate> "2018-11-17" .
+<https://dancehallbattle.org/event/parthenopebashment2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/parthenopebashment2018> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/parthenopebashment20181all> .
+<https://dancehallbattle.org/event/parthenopebashment2018> <https://dancehallbattle.org/ontology/instagram> "(null)" .

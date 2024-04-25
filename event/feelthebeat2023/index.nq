@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <http://schema.org/endDate> "2023-02-11" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <http://schema.org/startDate> "2023-02-11" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/5d2494e5> .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/feelthebeat20231beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/dancer/5d2494e5> <http://schema.org/name> "Arina" .
+<https://dancehallbattle.org/dancer/5d2494e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/5d2494e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/5d2494e5> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/event/feelthebeat2023> <http://schema.org/endDate> "2023-02-11" .
+<https://dancehallbattle.org/event/feelthebeat2023> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/feelthebeat2023> <http://schema.org/name> "Feel The Beat" .
+<https://dancehallbattle.org/event/feelthebeat2023> <http://schema.org/startDate> "2023-02-11" .
+<https://dancehallbattle.org/event/feelthebeat2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/feelthebeat2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/feelthebeat20231beginners> .
+<https://dancehallbattle.org/event/feelthebeat2023> <https://dancehallbattle.org/ontology/instagram> "feelthebeat_battle" .

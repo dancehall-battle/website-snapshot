@@ -1,0 +1,42 @@
+
+<https://dancehallbattle.org/battle/dh-china-vol31all> <http://schema.org/endDate> "2019-10-15" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <http://schema.org/startDate> "2019-10-15" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/han> _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dh-china-vol31all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <http://schema.org/endDate> "2019-03-31" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <http://schema.org/startDate> "2019-03-31" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/layla> _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/yichen> _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dhi-asia2all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/han> <http://schema.org/name> "Han" _:b0 .
+<https://dancehallbattle.org/dancer/han> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/han> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/han> <https://dancehallbattle.org/ontology/representsCountry> "tw" _:b0 .
+<https://dancehallbattle.org/dancer/layla> <http://schema.org/name> "Layla" _:b0 .
+<https://dancehallbattle.org/dancer/layla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/layla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/layla> <https://dancehallbattle.org/ontology/representsCountry> "tw" _:b0 .
+<https://dancehallbattle.org/dancer/yichen> <http://schema.org/name> "Yichen" _:b0 .
+<https://dancehallbattle.org/dancer/yichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/yichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/yichen> <https://dancehallbattle.org/ontology/representsCountry> "tw" _:b0 .
+<https://dancehallbattle.org/event/dh-china-vol3> <http://schema.org/location> "cn" _:b0 .
+<https://dancehallbattle.org/event/dh-china-vol3> <http://schema.org/name> "Dancehall in China Vol. 3" _:b0 .
+<https://dancehallbattle.org/event/dh-china-vol3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dh-china-vol3> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dh-china-vol31all> _:b0 .
+<https://dancehallbattle.org/event/dhi-asia> <http://schema.org/location> "cn" _:b0 .
+<https://dancehallbattle.org/event/dhi-asia> <http://schema.org/name> "Dancehall International Asia" _:b0 .
+<https://dancehallbattle.org/event/dhi-asia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dhi-asia> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhi-asia2all> _:b0 .

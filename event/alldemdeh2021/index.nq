@@ -1,0 +1,63 @@
+
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <http://schema.org/endDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <http://schema.org/name> "Better Gyal" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <http://schema.org/startDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/56db103d> .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <http://schema.org/endDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <http://schema.org/startDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/age> "kids" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/9fe5b618> .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/alldemdeh20211allkids> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <http://schema.org/endDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <http://schema.org/startDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/515aa025> .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/alldemdeh20211beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <http://schema.org/endDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <http://schema.org/startDate> "2021-01-30" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/a20ea0ee> .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/alldemdeh20211pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/515aa025> <http://schema.org/name> "Карасева Самира" .
+<https://dancehallbattle.org/dancer/515aa025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/515aa025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/515aa025> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/56db103d> <http://schema.org/name> "Mari Kiseleva" .
+<https://dancehallbattle.org/dancer/56db103d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/56db103d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/56db103d> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://schema.org/name> "Speedy" .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/9fe5b618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/9fe5b618> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/a20ea0ee> <http://schema.org/name> "Ilya Rysin" .
+<https://dancehallbattle.org/dancer/a20ea0ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/a20ea0ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/a20ea0ee> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/alldemdeh2021> <http://schema.org/endDate> "2021-01-31" .
+<https://dancehallbattle.org/event/alldemdeh2021> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/alldemdeh2021> <http://schema.org/name> "All Dem Deh" .
+<https://dancehallbattle.org/event/alldemdeh2021> <http://schema.org/startDate> "2021-01-29" .
+<https://dancehallbattle.org/event/alldemdeh2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/alldemdeh2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/alldemdeh20211allfemalebettergyal> .
+<https://dancehallbattle.org/event/alldemdeh2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/alldemdeh20211allkids> .
+<https://dancehallbattle.org/event/alldemdeh2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/alldemdeh20211beginners> .
+<https://dancehallbattle.org/event/alldemdeh2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/alldemdeh20211pro> .
+<https://dancehallbattle.org/event/alldemdeh2021> <https://dancehallbattle.org/ontology/instagram> "all_dem_deh" .

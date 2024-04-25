@@ -1,0 +1,19 @@
+
+<https://dancehallbattle.org/battle/madnesscamp20191all> <http://schema.org/endDate> "2019-06-02" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <http://schema.org/startDate> "2019-06-02" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/vanessa> _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/madnesscamp20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/vanessa> <http://schema.org/name> "Vanessa" _:b0 .
+<https://dancehallbattle.org/dancer/vanessa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/vanessa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/vanessa> <https://dancehallbattle.org/ontology/representsCountry> "ht" _:b0 .
+<https://dancehallbattle.org/event/madnesscamp2019> <http://schema.org/location> "ca" _:b0 .
+<https://dancehallbattle.org/event/madnesscamp2019> <http://schema.org/name> "Madness Dance Camp" _:b0 .
+<https://dancehallbattle.org/event/madnesscamp2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/madnesscamp2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/madnesscamp20191all> _:b0 .

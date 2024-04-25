@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <http://schema.org/endDate> "2019-11-10" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <http://schema.org/startDate> "2019-11-10" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/310872d7> .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <http://schema.org/endDate> "2019-11-10" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <http://schema.org/startDate> "2019-11-10" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/56a92423> .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/310872d7> <http://schema.org/name> "ДаRIKO" .
+<https://dancehallbattle.org/dancer/310872d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/310872d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/310872d7> <https://dancehallbattle.org/ontology/representsCountry> "(null)" .
+<https://dancehallbattle.org/dancer/56a92423> <http://schema.org/name> "Anya Neetah" .
+<https://dancehallbattle.org/dancer/56a92423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/56a92423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/56a92423> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <http://schema.org/endDate> "2019-11-10" .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <http://schema.org/location> "ua" .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <http://schema.org/name> "Hit The Floor Battle Vol. 6" .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <http://schema.org/startDate> "2019-11-09" .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/hitthefloorbattle-vol61beginners> .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/hitthefloorbattle-vol61pro> .
+<https://dancehallbattle.org/event/hitthefloorbattle-vol6> <https://dancehallbattle.org/ontology/instagram> "hitthefloorbattle" .

@@ -1,0 +1,54 @@
+
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <http://schema.org/endDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <http://schema.org/startDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/smirnovatoma> .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhfareast20191beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <http://schema.org/endDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <http://schema.org/startDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/polya> .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhfareast20191pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <http://schema.org/endDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <http://schema.org/startDate> "2019-05-01" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/anastasiabogdanova> .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/valeriezhefrua> .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dhfareast20192all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://schema.org/name> "Anastasia Bogdanova" .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/anastasiabogdanova> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/polya> <http://schema.org/name> "Polya" .
+<https://dancehallbattle.org/dancer/polya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/polya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/polya> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/smirnovatoma> <http://schema.org/name> "Smirnova Toma" .
+<https://dancehallbattle.org/dancer/smirnovatoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/smirnovatoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/smirnovatoma> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://schema.org/name> "Valérie Zhefrua" .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/valeriezhefrua> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/dhfareast2019> <http://schema.org/endDate> "2019-05-01" .
+<https://dancehallbattle.org/event/dhfareast2019> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/dhfareast2019> <http://schema.org/name> "Dancehall Far East" .
+<https://dancehallbattle.org/event/dhfareast2019> <http://schema.org/startDate> "2019-05-01" .
+<https://dancehallbattle.org/event/dhfareast2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhfareast2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhfareast20191beginners> .
+<https://dancehallbattle.org/event/dhfareast2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhfareast20191pro> .
+<https://dancehallbattle.org/event/dhfareast2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhfareast20192all> .
+<https://dancehallbattle.org/event/dhfareast2019> <https://dancehallbattle.org/ontology/instagram> "dancehallfareast" .

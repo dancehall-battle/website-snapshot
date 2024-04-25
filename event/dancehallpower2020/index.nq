@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <http://schema.org/endDate> "2020-12-20" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <http://schema.org/startDate> "2020-12-20" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/99287702> .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <http://schema.org/endDate> "2020-12-20" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <http://schema.org/startDate> "2020-12-20" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/ce8fbbab> .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallpower20201profemale> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/99287702> <http://schema.org/name> "Diana" .
+<https://dancehallbattle.org/dancer/99287702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/99287702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/99287702> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/ce8fbbab> <http://schema.org/name> "Штеменко Светлана" .
+<https://dancehallbattle.org/dancer/ce8fbbab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/ce8fbbab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/ce8fbbab> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/dancehallpower2020> <http://schema.org/endDate> "2020-12-20" .
+<https://dancehallbattle.org/event/dancehallpower2020> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/dancehallpower2020> <http://schema.org/name> "Dancehall Power Female Edition" .
+<https://dancehallbattle.org/event/dancehallpower2020> <http://schema.org/startDate> "2020-12-20" .
+<https://dancehallbattle.org/event/dancehallpower2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallpower2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallpower20201beginnersfemale> .
+<https://dancehallbattle.org/event/dancehallpower2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallpower20201profemale> .
+<https://dancehallbattle.org/event/dancehallpower2020> <https://dancehallbattle.org/ontology/instagram> "dancehallpower_vlg" .

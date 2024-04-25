@@ -1,0 +1,31 @@
+
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <http://schema.org/endDate> "2022-11-06" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <http://schema.org/name> "7 to Smoke" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <http://schema.org/startDate> "2022-11-06" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dikilla> .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <http://schema.org/endDate> "2022-11-06" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <http://schema.org/startDate> "2022-11-06" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dikilla> .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/dikilla> <http://schema.org/name> "DIKILLA" .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/dikilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/dikilla> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <http://schema.org/endDate> "2022-11-06" .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <http://schema.org/name> "Dancehall Vybz Spirit event #2" .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <http://schema.org/startDate> "2022-11-05" .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all7tosmoke> .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallvybzspirit2022-21all> .
+<https://dancehallbattle.org/event/dancehallvybzspirit2022-2> <https://dancehallbattle.org/ontology/instagram> "(null)" .

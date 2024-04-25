@@ -1,0 +1,19 @@
+
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <http://schema.org/endDate> "2023-03-26" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <http://schema.org/name> "Main Danger" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <http://schema.org/startDate> "2023-03-26" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/fca27a91> _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/fullycharge20231allmaindanger> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/fca27a91> <http://schema.org/name> "King Kayak" _:b0 .
+<https://dancehallbattle.org/dancer/fca27a91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/fca27a91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/fca27a91> <https://dancehallbattle.org/ontology/representsCountry> "gd" _:b0 .
+<https://dancehallbattle.org/event/fullycharge2023> <http://schema.org/location> "us" _:b0 .
+<https://dancehallbattle.org/event/fullycharge2023> <http://schema.org/name> "Fully Charge" _:b0 .
+<https://dancehallbattle.org/event/fullycharge2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/fullycharge2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/fullycharge20231allmaindanger> _:b0 .

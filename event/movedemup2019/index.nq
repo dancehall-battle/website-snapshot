@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <http://schema.org/endDate> "2019-05-26" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <http://schema.org/startDate> "2019-05-26" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/annaoikonomou> .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/movedemup20191allfemale> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/annaoikonomou> <http://schema.org/name> "Anna Oikonomou" .
+<https://dancehallbattle.org/dancer/annaoikonomou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/annaoikonomou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/annaoikonomou> <https://dancehallbattle.org/ontology/representsCountry> "gr" .
+<https://dancehallbattle.org/event/movedemup2019> <http://schema.org/endDate> "2019-05-26" .
+<https://dancehallbattle.org/event/movedemup2019> <http://schema.org/location> "gr" .
+<https://dancehallbattle.org/event/movedemup2019> <http://schema.org/name> "Move Dem Up" .
+<https://dancehallbattle.org/event/movedemup2019> <http://schema.org/startDate> "2019-05-26" .
+<https://dancehallbattle.org/event/movedemup2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/movedemup2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/movedemup20191allfemale> .
+<https://dancehallbattle.org/event/movedemup2019> <https://dancehallbattle.org/ontology/instagram> "movedemupgreece" .

@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <http://schema.org/startDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/f54b98e4> .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/u13anniversary20201beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <http://schema.org/startDate> "2020-03-15" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/84ef6ed0> .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/u13anniversary20201pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/84ef6ed0> <http://schema.org/name> "Kachura" .
+<https://dancehallbattle.org/dancer/84ef6ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/84ef6ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/84ef6ed0> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/f54b98e4> <http://schema.org/name> "Yarik Petelin" .
+<https://dancehallbattle.org/dancer/f54b98e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/f54b98e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/f54b98e4> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/u13anniversary2020> <http://schema.org/endDate> "2020-03-15" .
+<https://dancehallbattle.org/event/u13anniversary2020> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/u13anniversary2020> <http://schema.org/name> "U13 Anniversary" .
+<https://dancehallbattle.org/event/u13anniversary2020> <http://schema.org/startDate> "2020-03-14" .
+<https://dancehallbattle.org/event/u13anniversary2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/u13anniversary2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/u13anniversary20201beginners> .
+<https://dancehallbattle.org/event/u13anniversary2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/u13anniversary20201pro> .
+<https://dancehallbattle.org/event/u13anniversary2020> <https://dancehallbattle.org/ontology/instagram> "u13anniversary" .

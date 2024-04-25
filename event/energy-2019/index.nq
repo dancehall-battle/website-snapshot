@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/energy-20191beginners> <http://schema.org/endDate> "2019-11-30" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <http://schema.org/startDate> "2019-11-30" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/25103ef9> .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/dancer/25103ef9> <http://schema.org/name> "Алёна Си" .
+<https://dancehallbattle.org/dancer/25103ef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/25103ef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/25103ef9> <https://dancehallbattle.org/ontology/representsCountry> "(null)" .
+<https://dancehallbattle.org/event/energy-2019> <http://schema.org/endDate> "2019-12-01" .
+<https://dancehallbattle.org/event/energy-2019> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/energy-2019> <http://schema.org/name> "Energy 2019" .
+<https://dancehallbattle.org/event/energy-2019> <http://schema.org/startDate> "2019-11-29" .
+<https://dancehallbattle.org/event/energy-2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/energy-2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/energy-20191beginners> .
+<https://dancehallbattle.org/event/energy-2019> <https://dancehallbattle.org/ontology/instagram> "energyevent" .

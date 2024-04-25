@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <http://schema.org/endDate> "2018-06-10" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <http://schema.org/startDate> "2018-06-10" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/slimb> .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/getupbattle2018-061all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/slimb> <http://schema.org/name> "Slim B" .
+<https://dancehallbattle.org/dancer/slimb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/slimb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/slimb> <https://dancehallbattle.org/ontology/representsCountry> "be" .
+<https://dancehallbattle.org/event/getupbattle2018-06> <http://schema.org/endDate> "2018-06-10" .
+<https://dancehallbattle.org/event/getupbattle2018-06> <http://schema.org/location> "de" .
+<https://dancehallbattle.org/event/getupbattle2018-06> <http://schema.org/name> "Get Up Battle" .
+<https://dancehallbattle.org/event/getupbattle2018-06> <http://schema.org/startDate> "2018-06-10" .
+<https://dancehallbattle.org/event/getupbattle2018-06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/getupbattle2018-06> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/getupbattle2018-061all> .
+<https://dancehallbattle.org/event/getupbattle2018-06> <https://dancehallbattle.org/ontology/instagram> "(null)" .

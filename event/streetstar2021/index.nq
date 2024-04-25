@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/streetstar20211all> <http://schema.org/endDate> "2021-12-12" .
+<https://dancehallbattle.org/battle/streetstar20211all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/streetstar20211all> <http://schema.org/startDate> "2021-12-12" .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/younesmajri> .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/streetstar20211all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/younesmajri> <http://schema.org/name> "Younes Majri" .
+<https://dancehallbattle.org/dancer/younesmajri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/younesmajri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/younesmajri> <https://dancehallbattle.org/ontology/representsCountry> "se" .
+<https://dancehallbattle.org/event/streetstar2021> <http://schema.org/endDate> "2021-12-12" .
+<https://dancehallbattle.org/event/streetstar2021> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/streetstar2021> <http://schema.org/name> "Streetstar Sisters & Brothers Battle" .
+<https://dancehallbattle.org/event/streetstar2021> <http://schema.org/startDate> "2021-12-12" .
+<https://dancehallbattle.org/event/streetstar2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/streetstar2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/streetstar20211all> .
+<https://dancehallbattle.org/event/streetstar2021> <https://dancehallbattle.org/ontology/instagram> "(null)" .

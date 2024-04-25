@@ -1,0 +1,35 @@
+
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/endDate> "2023-10-29" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/startDate> "2023-10-29" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/age> "-14" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/c5348abf> .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/spalparkiet20231all-14> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <http://schema.org/endDate> "2023-10-29" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <http://schema.org/startDate> "2023-10-29" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/age> "15+" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/slimb> .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/spalparkiet20231all15%2B> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/c5348abf> <http://schema.org/name> "Paulina Znamirowska" .
+<https://dancehallbattle.org/dancer/c5348abf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/c5348abf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/c5348abf> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/dancer/slimb> <http://schema.org/name> "Slim B" .
+<https://dancehallbattle.org/dancer/slimb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/slimb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/slimb> <https://dancehallbattle.org/ontology/representsCountry> "be" .
+<https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/endDate> "2023-10-29" .
+<https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/name> "Spal Parkiet" .
+<https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/startDate> "2023-10-29" .
+<https://dancehallbattle.org/event/spalparkiet2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/spalparkiet2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/spalparkiet20231all-14> .
+<https://dancehallbattle.org/event/spalparkiet2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/spalparkiet20231all15%2B> .
+<https://dancehallbattle.org/event/spalparkiet2023> <https://dancehallbattle.org/ontology/instagram> "spalparkiet" .

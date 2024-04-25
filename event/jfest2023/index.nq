@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/jfest20231pro> <http://schema.org/endDate> "2023-03-25" .
+<https://dancehallbattle.org/battle/jfest20231pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/jfest20231pro> <http://schema.org/startDate> "2023-03-25" .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/0764d979> .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/jfest20231pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/0764d979> <http://schema.org/name> "Yulia" .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/0764d979> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/event/jfest2023> <http://schema.org/endDate> "2023-03-25" .
+<https://dancehallbattle.org/event/jfest2023> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/jfest2023> <http://schema.org/name> "J-Fest 2023" .
+<https://dancehallbattle.org/event/jfest2023> <http://schema.org/startDate> "2023-03-25" .
+<https://dancehallbattle.org/event/jfest2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/jfest2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/jfest20231pro> .
+<https://dancehallbattle.org/event/jfest2023> <https://dancehallbattle.org/ontology/instagram> "j.fest2023" .

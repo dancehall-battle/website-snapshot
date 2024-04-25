@@ -1,0 +1,26 @@
+
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <http://schema.org/endDate> "2022-05-28" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <http://schema.org/startDate> "2022-05-28" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/3761e7e7> .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/38a46547> .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/streetstarfestival20222all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/3761e7e7> <http://schema.org/name> "Smood" .
+<https://dancehallbattle.org/dancer/3761e7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/3761e7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/3761e7e7> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
+<https://dancehallbattle.org/dancer/38a46547> <http://schema.org/name> "Killerbean" .
+<https://dancehallbattle.org/dancer/38a46547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/38a46547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/38a46547> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
+<https://dancehallbattle.org/event/streetstarfestival2022> <http://schema.org/endDate> "2022-05-29" .
+<https://dancehallbattle.org/event/streetstarfestival2022> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/streetstarfestival2022> <http://schema.org/name> "Streetstar Festival 2022" .
+<https://dancehallbattle.org/event/streetstarfestival2022> <http://schema.org/startDate> "2022-05-24" .
+<https://dancehallbattle.org/event/streetstarfestival2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/streetstarfestival2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/streetstarfestival20222all> .
+<https://dancehallbattle.org/event/streetstarfestival2022> <https://dancehallbattle.org/ontology/instagram> "streetstar_festival" .

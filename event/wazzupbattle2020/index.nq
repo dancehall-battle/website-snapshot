@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <http://schema.org/endDate> "2020-11-14" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <http://schema.org/name> "7 to smoke" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <http://schema.org/startDate> "2020-11-14" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/4365d28f> .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/4365d28f> <http://schema.org/name> "EvGenna Wazzup" .
+<https://dancehallbattle.org/dancer/4365d28f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/4365d28f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/4365d28f> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/event/wazzupbattle2020> <http://schema.org/endDate> "2020-11-15" .
+<https://dancehallbattle.org/event/wazzupbattle2020> <http://schema.org/location> "ru" .
+<https://dancehallbattle.org/event/wazzupbattle2020> <http://schema.org/name> "Wazzup Battle" .
+<https://dancehallbattle.org/event/wazzupbattle2020> <http://schema.org/startDate> "2020-11-14" .
+<https://dancehallbattle.org/event/wazzupbattle2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/wazzupbattle2020> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/wazzupbattle20201pro7tosmoke> .
+<https://dancehallbattle.org/event/wazzupbattle2020> <https://dancehallbattle.org/ontology/instagram> "(null)" .
