@@ -793,7 +793,7 @@
 <https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/endDate> "2024-04-21" .
 <https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/location> "es" .
-<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/name> "Dancehall Internatioal Europe 2024" .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/name> "Dancehall International Europe 2024" .
 <https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/startDate> "2024-04-19" .
 <https://dancehallbattle.org/event/dhieurope2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .

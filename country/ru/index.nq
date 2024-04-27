@@ -1048,6 +1048,16 @@
 <https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/kristina> _:b0 .
 <https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/dhie20192all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <http://schema.org/endDate> "2024-04-21" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <http://schema.org/startDate> "2024-04-21" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/gender> "female" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/8aa67d91> _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20241allfemale> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/dhqkintercontinental-20191beginners> <http://schema.org/endDate> "2019-11-03" .
 <https://dancehallbattle.org/battle/dhqkintercontinental-20191beginners> <http://schema.org/endDate> "2019-11-03" _:b0 .
 <https://dancehallbattle.org/battle/dhqkintercontinental-20191beginners> <http://schema.org/name> "Dancehall Addict Beginners" .
@@ -3238,6 +3248,10 @@
 <https://dancehallbattle.org/event/dhie2019> <http://schema.org/name> "Dancehall International Europe" _:b0 .
 <https://dancehallbattle.org/event/dhie2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/dhie2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhie20192all> _:b0 .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/location> "es" _:b0 .
+<https://dancehallbattle.org/event/dhieurope2024> <http://schema.org/name> "Dancehall International Europe 2024" _:b0 .
+<https://dancehallbattle.org/event/dhieurope2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dhieurope2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhieurope20241allfemale> _:b0 .
 <https://dancehallbattle.org/event/dhqkintercontinental-2019> <http://schema.org/endDate> "2019-11-03" .
 <https://dancehallbattle.org/event/dhqkintercontinental-2019> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/dhqkintercontinental-2019> <http://schema.org/location> "ru" _:b0 .
