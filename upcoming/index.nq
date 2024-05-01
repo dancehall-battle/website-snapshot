@@ -426,7 +426,7 @@
 <https://dancehallbattle.org/event/czornedensycontest2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/czornedensycontest2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/endDate> "2024-05-31" .
-<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/location> "ch" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/location> "cn" .
 <https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/name> "Dance Fiesta Vol. 3" .
 <https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/startDate> "2024-05-28" .
 <https://dancehallbattle.org/event/dancefiestavol3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
@@ -1679,6 +1679,12 @@
 <https://dancehallbattle.org/event/nordeastbattle-2020> <http://schema.org/startDate> "2020-03-08" .
 <https://dancehallbattle.org/event/nordeastbattle-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/nordeastbattle-2020> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/nordicdynamite2024> <http://schema.org/endDate> "2024-05-01" .
+<https://dancehallbattle.org/event/nordicdynamite2024> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/nordicdynamite2024> <http://schema.org/name> "Nordic Dynamite" .
+<https://dancehallbattle.org/event/nordicdynamite2024> <http://schema.org/startDate> "2024-05-01" .
+<https://dancehallbattle.org/event/nordicdynamite2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/nordicdynamite2024> <https://dancehallbattle.org/ontology/instagram> "nordic_dynamite" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/endDate> "2019-03-16" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/name> "North East Battle" .

@@ -664,6 +664,17 @@
 <https://dancehallbattle.org/battle/pondesama20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/pondesama20191all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/pondesama20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/endDate> "2024-04-27" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/startDate> "2024-04-27" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/c71da952> _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/df3c8a8e> _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/tdm20191all> <http://schema.org/endDate> "2019-01-19" .
 <https://dancehallbattle.org/battle/tdm20191all> <http://schema.org/name> "(null)" .
 <https://dancehallbattle.org/battle/tdm20191all> <http://schema.org/startDate> "2019-01-19" .
@@ -924,6 +935,10 @@
 <https://dancehallbattle.org/dancer/blaakow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/blaakow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/blaakow> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/c71da952> <http://schema.org/name> "Loko Negro" _:b0 .
+<https://dancehallbattle.org/dancer/c71da952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/c71da952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/c71da952> <https://dancehallbattle.org/ontology/representsCountry> "(null)" _:b0 .
 <https://dancehallbattle.org/dancer/cd3b1b05> <http://schema.org/name> "Linda OhLí" .
 <https://dancehallbattle.org/dancer/cd3b1b05> <http://schema.org/name> "Linda OhLí" _:b0 .
 <https://dancehallbattle.org/dancer/cd3b1b05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
@@ -1381,6 +1396,10 @@
 <https://dancehallbattle.org/event/pondesama2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/pondesama20191all> .
 <https://dancehallbattle.org/event/pondesama2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/pondesama20191all> _:b0 .
 <https://dancehallbattle.org/event/pondesama2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/name> "Rulers" _:b0 .
+<https://dancehallbattle.org/event/rulers2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20242all> _:b0 .
 <https://dancehallbattle.org/event/tdm2019> <http://schema.org/endDate> "2019-01-20" .
 <https://dancehallbattle.org/event/tdm2019> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/tdm2019> <http://schema.org/name> "Torino Dancehall Movement" .

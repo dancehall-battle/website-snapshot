@@ -1,0 +1,54 @@
+
+<https://dancehallbattle.org/battle/rulers20241alladults> <http://schema.org/endDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <http://schema.org/startDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/age> "adults" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/vixmi> .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/rulers20241alladults> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <http://schema.org/endDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <http://schema.org/name> "7 to Smoke Queenstyle" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <http://schema.org/startDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/vikkirevenkova> .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/inviteOnly> "yes" .
+<https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/endDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/rulers20242all> <http://schema.org/startDate> "2024-04-27" .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/c71da952> .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/df3c8a8e> .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/c71da952> <http://schema.org/name> "Loko Negro" .
+<https://dancehallbattle.org/dancer/c71da952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/c71da952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/c71da952> <https://dancehallbattle.org/ontology/representsCountry> "(null)" .
+<https://dancehallbattle.org/dancer/df3c8a8e> <http://schema.org/name> "Simon De Maria" .
+<https://dancehallbattle.org/dancer/df3c8a8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/df3c8a8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/df3c8a8e> <https://dancehallbattle.org/ontology/representsCountry> "it" .
+<https://dancehallbattle.org/dancer/vikkirevenkova> <http://schema.org/name> "Vikki Mad Spirit" .
+<https://dancehallbattle.org/dancer/vikkirevenkova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/vikkirevenkova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/vikkirevenkova> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/dancer/vixmi> <http://schema.org/name> "Vixmi" .
+<https://dancehallbattle.org/dancer/vixmi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/vixmi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/vixmi> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/endDate> "2024-04-28" .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/name> "Rulers" .
+<https://dancehallbattle.org/event/rulers2024> <http://schema.org/startDate> "2024-04-26" .
+<https://dancehallbattle.org/event/rulers2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20241alladults> .
+<https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> .
+<https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20242all> .
+<https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
