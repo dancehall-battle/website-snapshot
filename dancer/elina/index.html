@@ -70,6 +70,8 @@
               <a class="dropdown-item" href="/2020">2020</a>
               <a class="dropdown-item" href="/2019">2019</a>
               <a class="dropdown-item" href="/2018">2018</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/judges">Judges</a>
             </div>
           </li>
           <li class="nav-item">
@@ -108,7 +110,7 @@
 
 
 <script type="application/ld+json">
-  {"@graph":{"wins":[{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/backtothesouth-20191beginners","participants":"1","gender":"all","atEvent":{"name":"Back to the South","location":"ua","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/backtothesouth-2019"},"end":"2019-10-20","name":"(null)","age":"all","start":"2019-10-20","level":"beginners","inviteOnly":"no"},{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/shotevent20211beginners","participants":"1","gender":"all","atEvent":{"name":"Shot Event 2021","location":"ua","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/shotevent2021"},"end":"2021-05-16","name":"(null)","age":"all","start":"2021-05-16","level":"beginners","inviteOnly":"no"}],"name":"Elina","instagram":"elina_lov2960","country":"ua","@type":["http://schema.org/Person","https://dancehallbattle.org/ontology/Dancer"],"@id":"https://dancehallbattle.org/dancer/elina"}}
+  {"@graph":{"id":"https://dancehallbattle.org/dancer/elina","wins":[{"id":"https://dancehallbattle.org/battle/backtothesouth-20191beginners","atEvent":{"id":"https://dancehallbattle.org/event/backtothesouth-2019","type":"Event","location":"ua","name":"Back to the South","hasBattle":[{"id":"https://dancehallbattle.org/battle/backtothesouth-20191beginners"},{"id":"https://dancehallbattle.org/battle/backtothesouth-20191pro","type":"Battle","end":{"type":"schema:Date","@value":"2019-10-20"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-10-20"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/kira","type":["schema:Person","Dancer"],"name":"Kira","instagram":"kira_dancer_thebest","country":"ua"},"inviteOnly":"no","level":"pro"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2019-10-20"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-10-20"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/elina"},"inviteOnly":"no","level":"beginners"},{"id":"https://dancehallbattle.org/battle/shotevent20211beginners","atEvent":{"id":"https://dancehallbattle.org/event/shotevent2021","type":"Event","location":"ua","name":"Shot Event 2021","hasBattle":[{"id":"https://dancehallbattle.org/battle/shotevent20211allbadmanfight","type":"Battle","end":{"type":"schema:Date","@value":"2021-05-16"},"name":"Badman fight","start":{"type":"schema:Date","@value":"2021-05-16"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/nikamadspirit","type":["schema:Person","Dancer"],"name":"Nika Mad Spirit","instagram":"nika_mad_spirit","country":"ua"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/shotevent20211allfemale","type":"Battle","end":{"type":"schema:Date","@value":"2021-05-16"},"name":"(null)","start":{"type":"schema:Date","@value":"2021-05-16"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"female","hasWinner":{"id":"https://dancehallbattle.org/dancer/kse","type":["schema:Person","Dancer"],"name":"KSE","instagram":"kse_vibelegend_","country":"ua"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/shotevent20211allkids","type":"Battle","end":{"type":"schema:Date","@value":"2021-05-16"},"name":"(null)","start":{"type":"schema:Date","@value":"2021-05-16"},"age":"kids","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/20ef5b4c","type":["schema:Person","Dancer"],"name":"Timple","instagram":"(null)","country":"ua"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/shotevent20211beginners"},{"id":"https://dancehallbattle.org/battle/shotevent20211pro","type":"Battle","end":{"type":"schema:Date","@value":"2021-05-16"},"name":"(null)","start":{"type":"schema:Date","@value":"2021-05-16"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/nikamadspirit"},"inviteOnly":"no","level":"pro"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2021-05-16"},"name":"(null)","start":{"type":"schema:Date","@value":"2021-05-16"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/elina"},"inviteOnly":"no","level":"beginners"}],"type":["schema:Person","Dancer"],"name":"Elina","instagram":"elina_lov2960","country":"ua"}}
 </script>
 
 <h3 class="page-title">
@@ -133,14 +135,15 @@
 
 </div>
 
-<div id="events" class="table-responsive">
+<div id="events" class="table-responsive mt-3">
   <h4>Wins</h4>
-  <table class="table">
+  
+    <table class="table">
     <thead>
     <tr>
-      <th class="event">Event</th>
-      <th class="date">Date</th>
-      <th class="category">Category</th>
+        <th class="event">Event</th>
+        <th class="date">Date</th>
+        <th class="category">Category</th>
     </tr>
     </thead>
     <tbody>
@@ -148,48 +151,64 @@
     
 
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/shotevent2021">Shot Event 2021</a> <span class="flag-icon flag-icon-ua"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/shotevent2021">🔗</span></td>
-    <td class="date">May 16, 2021</td>
-    <td class="category">1 vs 1 Beginners <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/shotevent20211beginners">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/shotevent2021">Shot Event 2021</a> <span
+                        class="flag-icon flag-icon-ua"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/shotevent2021">🔗</span>
+            </td>
+            <td class="date">May 16, 2021</td>
+            <td class="category">1 vs 1 Beginners <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/shotevent20211beginners">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     ">
-    <td colspan="2">1 vs 1 Beginners - May 16, 2021</td>
-    </tr>
+            <td colspan="2">1 vs 1 Beginners - May 16, 2021</td>
+        </tr>
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     grey-bckgrnd
     
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/backtothesouth-2019">Back to the South</a> <span class="flag-icon flag-icon-ua"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/backtothesouth-2019">🔗</span></td>
-    <td class="date">Oct 20, 2019</td>
-    <td class="category">1 vs 1 Beginners <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/backtothesouth-20191beginners">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/backtothesouth-2019">Back to the South</a> <span
+                        class="flag-icon flag-icon-ua"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/backtothesouth-2019">🔗</span>
+            </td>
+            <td class="date">Oct 20, 2019</td>
+            <td class="category">1 vs 1 Beginners <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/backtothesouth-20191beginners">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     grey-bckgrnd
     
     ">
-    <td colspan="2">1 vs 1 Beginners - Oct 20, 2019</td>
-    </tr>
+            <td colspan="2">1 vs 1 Beginners - Oct 20, 2019</td>
+        </tr>
     
     </tbody>
-  </table>
+</table>
+
+  
+</div>
+
+<div id="judged-battles" class="table-responsive mt-3">
+  <h4>Battles judged</h4>
+  
+    <p>This dancer hasn't judged any battles yet, or we don't have the information about them.</p>
+  
 </div>
 
   </div>
 </div>
+
 
   <footer class="text-center">
     <p id="footer-links">

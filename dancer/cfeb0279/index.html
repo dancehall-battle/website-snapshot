@@ -70,6 +70,8 @@
               <a class="dropdown-item" href="/2020">2020</a>
               <a class="dropdown-item" href="/2019">2019</a>
               <a class="dropdown-item" href="/2018">2018</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/judges">Judges</a>
             </div>
           </li>
           <li class="nav-item">
@@ -108,7 +110,7 @@
 
 
 <script type="application/ld+json">
-  {"@graph":{"wins":[{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/fullycharge2023-21allfemalefemaleshella","participants":"1","gender":"female","atEvent":{"name":"Fully Charge","location":"co","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/fullycharge2023-2"},"end":"2023-11-11","name":"Female Shella","age":"all","start":"2023-11-11","level":"all","inviteOnly":"no"},{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/ketchdiflow20231allfemale","participants":"1","gender":"female","atEvent":{"name":"Ketch di Flow","location":"co","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/ketchdiflow2023"},"end":"2023-10-08","name":"(null)","age":"all","start":"2023-10-08","level":"all","inviteOnly":"no"}],"name":"Kesha Dancehallqueen","instagram":"keshavzla","country":"co","@type":["http://schema.org/Person","https://dancehallbattle.org/ontology/Dancer"],"@id":"https://dancehallbattle.org/dancer/cfeb0279"}}
+  {"@graph":{"id":"https://dancehallbattle.org/dancer/cfeb0279","wins":[{"id":"https://dancehallbattle.org/battle/fullycharge2023-21allfemalefemaleshella","atEvent":{"id":"https://dancehallbattle.org/event/fullycharge2023-2","type":"Event","location":"co","name":"Fully Charge","hasBattle":[{"id":"https://dancehallbattle.org/battle/fullycharge2023-21allfemalefemaleshella"},{"id":"https://dancehallbattle.org/battle/fullycharge2023-21allmaindanger","type":"Battle","end":{"type":"schema:Date","@value":"2023-11-11"},"name":"Main Danger","start":{"type":"schema:Date","@value":"2023-11-11"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/4c458e1d","type":["schema:Person","Dancer"],"name":"Luis","instagram":"chokoluis_","country":"co"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/fullycharge2023-22all2charge","type":"Battle","end":{"type":"schema:Date","@value":"2023-11-11"},"name":"2 Charge","start":{"type":"schema:Date","@value":"2023-11-11"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"2"},"gender":"all","hasWinner":[{"id":"https://dancehallbattle.org/dancer/deivissantiago","type":["schema:Person","Dancer"],"name":"Deivis Santiago'","instagram":"deiviss20","country":"ve"},{"id":"https://dancehallbattle.org/dancer/e604b200","type":["schema:Person","Dancer"],"name":"Pixel","instagram":"pixel.vnzla/","country":"ve"}],"inviteOnly":"no","level":"all"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2023-11-11"},"name":"Female Shella","start":{"type":"schema:Date","@value":"2023-11-11"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"female","hasWinner":{"id":"https://dancehallbattle.org/dancer/cfeb0279"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/ketchdiflow20231allfemale","atEvent":{"id":"https://dancehallbattle.org/event/ketchdiflow2023","type":"Event","location":"co","name":"Ketch di Flow","hasBattle":[{"id":"https://dancehallbattle.org/battle/ketchdiflow20231all","type":"Battle","end":{"type":"schema:Date","@value":"2023-10-08"},"name":"(null)","start":{"type":"schema:Date","@value":"2023-10-08"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/1fd78a3c","type":["schema:Person","Dancer"],"name":"Champion Bwoy","instagram":"champion23____","country":"co"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/ketchdiflow20231allfemale"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2023-10-08"},"name":"(null)","start":{"type":"schema:Date","@value":"2023-10-08"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"female","hasWinner":{"id":"https://dancehallbattle.org/dancer/cfeb0279"},"inviteOnly":"no","level":"all"}],"type":["schema:Person","Dancer"],"name":"Kesha Dancehallqueen","instagram":"keshavzla","country":"co"}}
 </script>
 
 <h3 class="page-title">
@@ -133,14 +135,15 @@
 
 </div>
 
-<div id="events" class="table-responsive">
+<div id="events" class="table-responsive mt-3">
   <h4>Wins</h4>
-  <table class="table">
+  
+    <table class="table">
     <thead>
     <tr>
-      <th class="event">Event</th>
-      <th class="date">Date</th>
-      <th class="category">Category</th>
+        <th class="event">Event</th>
+        <th class="date">Date</th>
+        <th class="category">Category</th>
     </tr>
     </thead>
     <tbody>
@@ -148,48 +151,64 @@
     
 
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/fullycharge2023-2">Fully Charge</a> <span class="flag-icon flag-icon-co"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/fullycharge2023-2">🔗</span></td>
-    <td class="date">Nov 11, 2023</td>
-    <td class="category">Female Shella <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/fullycharge2023-21allfemalefemaleshella">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/fullycharge2023-2">Fully Charge</a> <span
+                        class="flag-icon flag-icon-co"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/fullycharge2023-2">🔗</span>
+            </td>
+            <td class="date">Nov 11, 2023</td>
+            <td class="category">Female Shella <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/fullycharge2023-21allfemalefemaleshella">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     ">
-    <td colspan="2">Female Shella - Nov 11, 2023</td>
-    </tr>
+            <td colspan="2">Female Shella - Nov 11, 2023</td>
+        </tr>
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     grey-bckgrnd
     
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/ketchdiflow2023">Ketch di Flow</a> <span class="flag-icon flag-icon-co"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/ketchdiflow2023">🔗</span></td>
-    <td class="date">Oct 8, 2023</td>
-    <td class="category">1 vs 1 Female <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/ketchdiflow20231allfemale">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/ketchdiflow2023">Ketch di Flow</a> <span
+                        class="flag-icon flag-icon-co"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/ketchdiflow2023">🔗</span>
+            </td>
+            <td class="date">Oct 8, 2023</td>
+            <td class="category">1 vs 1 Female <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/ketchdiflow20231allfemale">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     grey-bckgrnd
     
     ">
-    <td colspan="2">1 vs 1 Female - Oct 8, 2023</td>
-    </tr>
+            <td colspan="2">1 vs 1 Female - Oct 8, 2023</td>
+        </tr>
     
     </tbody>
-  </table>
+</table>
+
+  
+</div>
+
+<div id="judged-battles" class="table-responsive mt-3">
+  <h4>Battles judged</h4>
+  
+    <p>This dancer hasn't judged any battles yet, or we don't have the information about them.</p>
+  
 </div>
 
   </div>
 </div>
+
 
   <footer class="text-center">
     <p id="footer-links">

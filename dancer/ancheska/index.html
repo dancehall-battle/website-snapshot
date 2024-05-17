@@ -70,6 +70,8 @@
               <a class="dropdown-item" href="/2020">2020</a>
               <a class="dropdown-item" href="/2019">2019</a>
               <a class="dropdown-item" href="/2018">2018</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/judges">Judges</a>
             </div>
           </li>
           <li class="nav-item">
@@ -108,7 +110,7 @@
 
 
 <script type="application/ld+json">
-  {"@graph":{"wins":[{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/itslikehome20192all","participants":"2","gender":"all","atEvent":{"name":"It’s Like Home","location":"ee","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/itslikehome2019"},"end":"2019-05-18","name":"(null)","age":"all","start":"2019-05-18","level":"all","inviteOnly":"no"},{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/northeastbattle20191all","participants":"1","gender":"all","atEvent":{"name":"North East Battle","location":"ee","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/northeastbattle2019"},"end":"2019-03-16","name":"(null)","age":"all","start":"2019-03-16","level":"all","inviteOnly":"no"}],"name":"Ancheska","instagram":"aaancheska","country":"ee","@type":["http://schema.org/Person","https://dancehallbattle.org/ontology/Dancer"],"@id":"https://dancehallbattle.org/dancer/ancheska"}}
+  {"@graph":{"id":"https://dancehallbattle.org/dancer/ancheska","wins":[{"id":"https://dancehallbattle.org/battle/itslikehome20192all","atEvent":{"id":"https://dancehallbattle.org/event/itslikehome2019","type":"Event","location":"ee","name":"It’s Like Home","hasBattle":[{"id":"https://dancehallbattle.org/battle/itslikehome20191allkids","type":"Battle","end":{"type":"schema:Date","@value":"2019-05-18"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-05-18"},"age":"kids","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/nicolmilan","type":["schema:Person","Dancer"],"name":"Nicol Milan","instagram":"nicolsaf","country":"ee"},"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/itslikehome20191beginners","type":"Battle","end":{"type":"schema:Date","@value":"2019-05-18"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-05-18"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/alina","type":["schema:Person","Dancer"],"name":"Alina","instagram":"uwhejaaa","country":"ee"},"inviteOnly":"no","level":"beginners"},{"id":"https://dancehallbattle.org/battle/itslikehome20191pro","type":"Battle","end":{"type":"schema:Date","@value":"2019-05-18"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-05-18"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/vlada","type":["schema:Person","Dancer"],"name":"Vlada","instagram":"vlada_rubi","country":"ee"},"inviteOnly":"no","level":"pro"},{"id":"https://dancehallbattle.org/battle/itslikehome20192all"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2019-05-18"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-05-18"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"2"},"gender":"all","hasWinner":[{"id":"https://dancehallbattle.org/dancer/ancheska"},{"id":"https://dancehallbattle.org/dancer/vlada","type":["schema:Person","Dancer"],"name":"Vlada","instagram":"vlada_rubi","country":"ee"}],"inviteOnly":"no","level":"all"},{"id":"https://dancehallbattle.org/battle/northeastbattle20191all","atEvent":{"id":"https://dancehallbattle.org/event/northeastbattle2019","type":"Event","location":"ee","name":"North East Battle","hasBattle":{"id":"https://dancehallbattle.org/battle/northeastbattle20191all"}},"type":"Battle","end":{"type":"schema:Date","@value":"2019-03-16"},"name":"(null)","start":{"type":"schema:Date","@value":"2019-03-16"},"age":"all","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/ancheska"},"inviteOnly":"no","level":"all"}],"type":["schema:Person","Dancer"],"name":"Ancheska","instagram":"aaancheska","country":"ee"}}
 </script>
 
 <h3 class="page-title">
@@ -133,14 +135,15 @@
 
 </div>
 
-<div id="events" class="table-responsive">
+<div id="events" class="table-responsive mt-3">
   <h4>Wins</h4>
-  <table class="table">
+  
+    <table class="table">
     <thead>
     <tr>
-      <th class="event">Event</th>
-      <th class="date">Date</th>
-      <th class="category">Category</th>
+        <th class="event">Event</th>
+        <th class="date">Date</th>
+        <th class="category">Category</th>
     </tr>
     </thead>
     <tbody>
@@ -148,48 +151,64 @@
     
 
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/itslikehome2019">It’s Like Home</a> <span class="flag-icon flag-icon-ee"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/itslikehome2019">🔗</span></td>
-    <td class="date">May 18, 2019</td>
-    <td class="category">2 vs 2 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/itslikehome20192all">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/itslikehome2019">It’s Like Home</a> <span
+                        class="flag-icon flag-icon-ee"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/itslikehome2019">🔗</span>
+            </td>
+            <td class="date">May 18, 2019</td>
+            <td class="category">2 vs 2 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/itslikehome20192all">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     ">
-    <td colspan="2">2 vs 2 - May 18, 2019</td>
-    </tr>
+            <td colspan="2">2 vs 2 - May 18, 2019</td>
+        </tr>
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     grey-bckgrnd
     
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/northeastbattle2019">North East Battle</a> <span class="flag-icon flag-icon-ee"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/northeastbattle2019">🔗</span></td>
-    <td class="date">Mar 16, 2019</td>
-    <td class="category">1 vs 1 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/northeastbattle20191all">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/northeastbattle2019">North East Battle</a> <span
+                        class="flag-icon flag-icon-ee"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/northeastbattle2019">🔗</span>
+            </td>
+            <td class="date">Mar 16, 2019</td>
+            <td class="category">1 vs 1 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/northeastbattle20191all">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     grey-bckgrnd
     
     ">
-    <td colspan="2">1 vs 1 - Mar 16, 2019</td>
-    </tr>
+            <td colspan="2">1 vs 1 - Mar 16, 2019</td>
+        </tr>
     
     </tbody>
-  </table>
+</table>
+
+  
+</div>
+
+<div id="judged-battles" class="table-responsive mt-3">
+  <h4>Battles judged</h4>
+  
+    <p>This dancer hasn't judged any battles yet, or we don't have the information about them.</p>
+  
 </div>
 
   </div>
 </div>
+
 
   <footer class="text-center">
     <p id="footer-links">

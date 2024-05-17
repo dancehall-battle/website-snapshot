@@ -941,6 +941,12 @@
 <https://dancehallbattle.org/event/explosionbattle2023> <http://schema.org/startDate> "2023-12-02" .
 <https://dancehallbattle.org/event/explosionbattle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/explosionbattle2023> <https://dancehallbattle.org/ontology/instagram> "explosion_battle" .
+<https://dancehallbattle.org/event/explosionbattle2024> <http://schema.org/endDate> "2024-05-12" .
+<https://dancehallbattle.org/event/explosionbattle2024> <http://schema.org/location> "ua" .
+<https://dancehallbattle.org/event/explosionbattle2024> <http://schema.org/name> "Explosion Battle" .
+<https://dancehallbattle.org/event/explosionbattle2024> <http://schema.org/startDate> "2024-05-11" .
+<https://dancehallbattle.org/event/explosionbattle2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/explosionbattle2024> <https://dancehallbattle.org/ontology/instagram> "explosion_battle" .
 <https://dancehallbattle.org/event/explosivebattle2021> <http://schema.org/endDate> "2021-03-20" .
 <https://dancehallbattle.org/event/explosivebattle2021> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/explosivebattle2021> <http://schema.org/name> "Explosive Battle" .

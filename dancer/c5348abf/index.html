@@ -70,6 +70,8 @@
               <a class="dropdown-item" href="/2020">2020</a>
               <a class="dropdown-item" href="/2019">2019</a>
               <a class="dropdown-item" href="/2018">2018</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/judges">Judges</a>
             </div>
           </li>
           <li class="nav-item">
@@ -108,7 +110,7 @@
 
 
 <script type="application/ld+json">
-  {"@graph":{"wins":[{"@type":["https://dancehallbattle.org/ontology/DanceBattle"],"@id":"https://dancehallbattle.org/battle/spalparkiet20231all-14","participants":"1","gender":"all","atEvent":{"name":"Spal Parkiet","location":"pl","@type":["https://dancehallbattle.org/ontology/DanceEvent"],"@id":"https://dancehallbattle.org/event/spalparkiet2023"},"end":"2023-10-29","name":"(null)","age":"-14","start":"2023-10-29","level":"all","inviteOnly":"no"}],"name":"Paulina Znamirowska","instagram":"(null)","country":"pl","@type":["http://schema.org/Person","https://dancehallbattle.org/ontology/Dancer"],"@id":"https://dancehallbattle.org/dancer/c5348abf"}}
+  {"@graph":{"id":"https://dancehallbattle.org/dancer/c5348abf","wins":{"id":"https://dancehallbattle.org/battle/spalparkiet20231all-14","atEvent":{"id":"https://dancehallbattle.org/event/spalparkiet2023","type":"Event","location":"pl","name":"Spal Parkiet","hasBattle":[{"id":"https://dancehallbattle.org/battle/spalparkiet20231all-14"},{"id":"https://dancehallbattle.org/battle/spalparkiet20231all15%2B","type":"Battle","end":{"type":"schema:Date","@value":"2023-10-29"},"name":"(null)","start":{"type":"schema:Date","@value":"2023-10-29"},"age":"15+","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/slimb","type":["schema:Person","Dancer"],"name":"Slim B","instagram":"thisisslimb","country":"be"},"inviteOnly":"no","level":"all"}]},"type":"Battle","end":{"type":"schema:Date","@value":"2023-10-29"},"name":"(null)","start":{"type":"schema:Date","@value":"2023-10-29"},"age":"-14","participants":{"type":"http://www.w3.org/2001/XMLSchema#Integer","@value":"1"},"gender":"all","hasWinner":{"id":"https://dancehallbattle.org/dancer/c5348abf"},"inviteOnly":"no","level":"all"},"type":["schema:Person","Dancer"],"name":"Paulina Znamirowska","instagram":"(null)","country":"pl"}}
 </script>
 
 <h3 class="page-title">
@@ -131,14 +133,15 @@
 
 </div>
 
-<div id="events" class="table-responsive">
+<div id="events" class="table-responsive mt-3">
   <h4>Wins</h4>
-  <table class="table">
+  
+    <table class="table">
     <thead>
     <tr>
-      <th class="event">Event</th>
-      <th class="date">Date</th>
-      <th class="category">Category</th>
+        <th class="event">Event</th>
+        <th class="date">Date</th>
+        <th class="category">Category</th>
     </tr>
     </thead>
     <tbody>
@@ -146,28 +149,41 @@
     
 
     
-    
-    <tr class="event-row
+        
+        <tr class="event-row
             
     "
-    >
-    
-    <td class="event-only"><a href="https://dancehallbattle.org/event/spalparkiet2023">Spal Parkiet</a> <span class="flag-icon flag-icon-pl"></span> <span class="kg-url hidden" data-url="https://dancehallbattle.org/event/spalparkiet2023">🔗</span></td>
-    <td class="date">Oct 29, 2023</td>
-    <td class="category">1 vs 1 -14 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/spalparkiet20231all-14">🔗</span></td>
-    </tr>
-    <tr class="details-sm
+        >
+            
+            <td class="event-only"><a href="https://dancehallbattle.org/event/spalparkiet2023">Spal Parkiet</a> <span
+                        class="flag-icon flag-icon-pl"></span> <span class="kg-url hidden"
+                                                                                                data-url="https://dancehallbattle.org/event/spalparkiet2023">🔗</span>
+            </td>
+            <td class="date">Oct 29, 2023</td>
+            <td class="category">1 vs 1 -14 <span class="kg-url hidden" data-url="https://dancehallbattle.org/battle/spalparkiet20231all-14">🔗</span></td>
+        </tr>
+        <tr class="details-sm
             
     ">
-    <td colspan="2">1 vs 1 -14 - Oct 29, 2023</td>
-    </tr>
+            <td colspan="2">1 vs 1 -14 - Oct 29, 2023</td>
+        </tr>
     
     </tbody>
-  </table>
+</table>
+
+  
+</div>
+
+<div id="judged-battles" class="table-responsive mt-3">
+  <h4>Battles judged</h4>
+  
+    <p>This dancer hasn't judged any battles yet, or we don't have the information about them.</p>
+  
 </div>
 
   </div>
 </div>
+
 
   <footer class="text-center">
     <p id="footer-links">
