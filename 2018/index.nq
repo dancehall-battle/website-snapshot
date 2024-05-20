@@ -1856,6 +1856,16 @@
 <https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/25103ef9> .
 <https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
 <https://dancehallbattle.org/battle/energy-20191beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <http://schema.org/endDate> "2024-05-11" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <http://schema.org/startDate> "2024-05-11" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/29e3d509> .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/everybodydancehall-20201all> <http://schema.org/endDate> "2020-02-22" .
 <https://dancehallbattle.org/battle/everybodydancehall-20201all> <http://schema.org/name> "(null)" .
 <https://dancehallbattle.org/battle/everybodydancehall-20201all> <http://schema.org/startDate> "2020-02-22" .
@@ -4894,6 +4904,10 @@
 <https://dancehallbattle.org/dancer/26e146bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/26e146bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/26e146bf> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/29e3d509> <http://schema.org/name> "Sofia" .
+<https://dancehallbattle.org/dancer/29e3d509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/29e3d509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/29e3d509> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://schema.org/name> "Víctor Vásquez" .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
@@ -6537,6 +6551,10 @@
 <https://dancehallbattle.org/event/energy-2019> <http://schema.org/name> "Energy 2019" .
 <https://dancehallbattle.org/event/energy-2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/energy-2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/energy-20191beginners> .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/name> "Estonian Championships" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/estonianchampionships2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/estonianchampionships20241all> .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/name> "Everybody Dancehall Vol. 5" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .

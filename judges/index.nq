@@ -25,6 +25,7 @@
 <https://dancehallbattle.org/battle/dhieurope20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/099e99f1> .
 <https://dancehallbattle.org/battle/dhieurope20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/221c2e3a> .
 <https://dancehallbattle.org/battle/dhieurope20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/fcc7d7bd> .
+<https://dancehallbattle.org/battle/estonianchampionships20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/af4d6e69> .
 <https://dancehallbattle.org/battle/explosionbattle20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/0453f1d0> .
 <https://dancehallbattle.org/battle/explosionbattle20241allfemale> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/0453f1d0> .
 <https://dancehallbattle.org/battle/innadimiddle20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/dfa53811> .
@@ -101,6 +102,10 @@
 <https://dancehallbattle.org/dancer/9dadae8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/9dadae8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/9dadae8a> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/af4d6e69> <http://schema.org/name> "Birgit Käsper" .
+<https://dancehallbattle.org/dancer/af4d6e69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/af4d6e69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/af4d6e69> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
 <https://dancehallbattle.org/dancer/bb239515> <http://schema.org/name> "AJ Extreme Pushers" .
 <https://dancehallbattle.org/dancer/bb239515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/bb239515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .

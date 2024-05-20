@@ -917,6 +917,12 @@
 <https://dancehallbattle.org/event/energy-2019> <http://schema.org/startDate> "2019-11-29" .
 <https://dancehallbattle.org/event/energy-2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/energy-2019> <https://dancehallbattle.org/ontology/instagram> "energyevent" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/endDate> "2024-05-11" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/name> "Estonian Championships" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/startDate> "2024-05-11" .
+<https://dancehallbattle.org/event/estonianchampionships2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/estonianchampionships2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/endDate> "2020-02-23" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/name> "Everybody Dancehall Vol. 5" .
