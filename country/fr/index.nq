@@ -212,6 +212,26 @@
 <https://dancehallbattle.org/battle/ctdd31all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/blaakow> _:b0 .
 <https://dancehallbattle.org/battle/ctdd31all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/ctdd31all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <http://schema.org/endDate> "2024-05-25" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <http://schema.org/startDate> "2024-05-25" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/papik> _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <http://schema.org/endDate> "2024-05-25" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <http://schema.org/startDate> "2024-05-25" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/gender> "female" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/701e0d1e> _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/dancehallclashcorner20241pro> <http://schema.org/endDate> "2024-01-27" _:b0 .
 <https://dancehallbattle.org/battle/dancehallclashcorner20241pro> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/dancehallclashcorner20241pro> <http://schema.org/startDate> "2024-01-27" _:b0 .
@@ -1106,6 +1126,11 @@
 <https://dancehallbattle.org/event/ctdd3> <http://schema.org/name> "Come Taste di Dancehall Vol. 3" _:b0 .
 <https://dancehallbattle.org/event/ctdd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/ctdd3> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/ctdd31all> _:b0 .
+<https://dancehallbattle.org/event/dancehallclashcorner2024-2> <http://schema.org/location> "be" _:b0 .
+<https://dancehallbattle.org/event/dancehallclashcorner2024-2> <http://schema.org/name> "Dancehall Clash Corner" _:b0 .
+<https://dancehallbattle.org/event/dancehallclashcorner2024-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dancehallclashcorner2024-2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallclashcorner2024-21all> _:b0 .
+<https://dancehallbattle.org/event/dancehallclashcorner2024-2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallclashcorner2024-21allfemale> _:b0 .
 <https://dancehallbattle.org/event/dancehallclashcorner2024> <http://schema.org/location> "be" _:b0 .
 <https://dancehallbattle.org/event/dancehallclashcorner2024> <http://schema.org/name> "Dancehall Clash Corner" _:b0 .
 <https://dancehallbattle.org/event/dancehallclashcorner2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .

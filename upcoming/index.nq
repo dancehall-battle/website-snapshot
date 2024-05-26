@@ -233,6 +233,12 @@
 <https://dancehallbattle.org/event/blackroots2022> <http://schema.org/startDate> "2022-10-01" .
 <https://dancehallbattle.org/event/blackroots2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/blackroots2022> <https://dancehallbattle.org/ontology/instagram> "blackroots.afro" .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/endDate> "2024-06-23" .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/location> "id" .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/name> "Blazin Up Chapter 3: Pon di Connection" .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/startDate> "2024-06-20" .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/blazinupchapter3-2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/blowtheflow-vol2> <http://schema.org/endDate> "2020-01-26" .
 <https://dancehallbattle.org/event/blowtheflow-vol2> <http://schema.org/location> "uz" .
 <https://dancehallbattle.org/event/blowtheflow-vol2> <http://schema.org/name> "Blow The Flow Vol. 2" .
@@ -1415,6 +1421,12 @@
 <https://dancehallbattle.org/event/killdabeat2024> <http://schema.org/startDate> "2024-09-21" .
 <https://dancehallbattle.org/event/killdabeat2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/killdabeat2024> <https://dancehallbattle.org/ontology/instagram> "kill_da_beat" .
+<https://dancehallbattle.org/event/kingofthering2024> <http://schema.org/endDate> "2024-06-02" .
+<https://dancehallbattle.org/event/kingofthering2024> <http://schema.org/location> "pt" .
+<https://dancehallbattle.org/event/kingofthering2024> <http://schema.org/name> "King of the Ring" .
+<https://dancehallbattle.org/event/kingofthering2024> <http://schema.org/startDate> "2024-06-01" .
+<https://dancehallbattle.org/event/kingofthering2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/kingofthering2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/koreawhine2019> <http://schema.org/endDate> "2019-06-23" .
 <https://dancehallbattle.org/event/koreawhine2019> <http://schema.org/location> "kr" .
 <https://dancehallbattle.org/event/koreawhine2019> <http://schema.org/name> "Korea Whine" .
@@ -2363,6 +2375,12 @@
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <http://schema.org/startDate> "2023-11-10" .
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/wowfactorfest2024> <http://schema.org/endDate> "2024-08-31" .
+<https://dancehallbattle.org/event/wowfactorfest2024> <http://schema.org/location> "ua" .
+<https://dancehallbattle.org/event/wowfactorfest2024> <http://schema.org/name> "Wow Factor Fest" .
+<https://dancehallbattle.org/event/wowfactorfest2024> <http://schema.org/startDate> "2024-08-30" .
+<https://dancehallbattle.org/event/wowfactorfest2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/wowfactorfest2024> <https://dancehallbattle.org/ontology/instagram> "wow.factor.fest" .
 <https://dancehallbattle.org/event/wz-es-2019> <http://schema.org/endDate> "2018-12-16" .
 <https://dancehallbattle.org/event/wz-es-2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/wz-es-2019> <http://schema.org/name> "Wicked Zone Estonia" .
