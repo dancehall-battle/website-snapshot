@@ -179,6 +179,12 @@
 <https://dancehallbattle.org/event/battleofthebest2023> <http://schema.org/startDate> "2023-06-28" .
 <https://dancehallbattle.org/event/battleofthebest2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleofthebest2023> <https://dancehallbattle.org/ontology/instagram> "battleofthebestgr" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/endDate> "2024-06-30" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/location> "gr" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/name> "Battle of the Best Armenistis" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/startDate> "2024-06-26" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleofthebest2024> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://schema.org/endDate> "2019-07-01" .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://schema.org/location> "gr" .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://schema.org/name> "Battle Of The Best" .
@@ -1121,6 +1127,12 @@
 <https://dancehallbattle.org/event/fullycharge2023> <http://schema.org/startDate> "2023-03-25" .
 <https://dancehallbattle.org/event/fullycharge2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/fullycharge2023> <https://dancehallbattle.org/ontology/instagram> "fullycharge.americas" .
+<https://dancehallbattle.org/event/fullycharge2024> <http://schema.org/endDate> "2024-11-17" .
+<https://dancehallbattle.org/event/fullycharge2024> <http://schema.org/location> "ar" .
+<https://dancehallbattle.org/event/fullycharge2024> <http://schema.org/name> "Fully Charge" .
+<https://dancehallbattle.org/event/fullycharge2024> <http://schema.org/startDate> "2024-11-16" .
+<https://dancehallbattle.org/event/fullycharge2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/fullycharge2024> <https://dancehallbattle.org/ontology/instagram> "fullycharge.americas" .
 <https://dancehallbattle.org/event/funnybananadayvol4> <http://schema.org/endDate> "2019-10-20" .
 <https://dancehallbattle.org/event/funnybananadayvol4> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/funnybananadayvol4> <http://schema.org/name> "Funny Banana Day Vol. 4" .
@@ -1943,12 +1955,6 @@
 <https://dancehallbattle.org/event/sdke2019> <http://schema.org/startDate> "2019-07-01" .
 <https://dancehallbattle.org/event/sdke2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/sdke2019> <https://dancehallbattle.org/ontology/instagram> "(null)" .
-<https://dancehallbattle.org/event/sdkeurope2024> <http://schema.org/endDate> "2024-07-07" .
-<https://dancehallbattle.org/event/sdkeurope2024> <http://schema.org/location> "cz" .
-<https://dancehallbattle.org/event/sdkeurope2024> <http://schema.org/name> "SDK Europe" .
-<https://dancehallbattle.org/event/sdkeurope2024> <http://schema.org/startDate> "2024-07-02" .
-<https://dancehallbattle.org/event/sdkeurope2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/sdkeurope2024> <https://dancehallbattle.org/ontology/instagram> "sdkeurope_official" .
 <https://dancehallbattle.org/event/shelsinki2024> <http://schema.org/endDate> "2024-03-31" .
 <https://dancehallbattle.org/event/shelsinki2024> <http://schema.org/location> "fi" .
 <https://dancehallbattle.org/event/shelsinki2024> <http://schema.org/name> "Shelshinki" .

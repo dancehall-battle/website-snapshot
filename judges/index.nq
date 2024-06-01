@@ -51,6 +51,9 @@
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/655abeaa> .
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/8579d0a8> .
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/996671cc> .
+<https://dancehallbattle.org/battle/rulers20241allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/9dadae8a> .
+<https://dancehallbattle.org/battle/rulers20241allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/b0ce329b> .
+<https://dancehallbattle.org/battle/rulers20241allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/e8f2f8d9> .
 <https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/8579d0a8> .
 <https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/9dadae8a> .
 <https://dancehallbattle.org/battle/rulers20242all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/e8f2f8d9> .
@@ -173,6 +176,10 @@
 <https://dancehallbattle.org/dancer/af4d6e69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/af4d6e69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/af4d6e69> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/dancer/b0ce329b> <http://schema.org/name> "Prince Royal" .
+<https://dancehallbattle.org/dancer/b0ce329b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/b0ce329b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/b0ce329b> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
 <https://dancehallbattle.org/dancer/bab7d8df> <http://schema.org/name> "Valerie Maene" .
 <https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/bab7d8df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
