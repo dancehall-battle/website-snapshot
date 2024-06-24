@@ -551,6 +551,18 @@
 <https://dancehallbattle.org/event/dancehallmecca2022> <http://schema.org/startDate> "2022-08-15" .
 <https://dancehallbattle.org/event/dancehallmecca2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallmecca2022> <https://dancehallbattle.org/ontology/instagram> "dancehallmeccaja" .
+<https://dancehallbattle.org/event/dancehallmecca2023> <http://schema.org/endDate> "2023-07-29" .
+<https://dancehallbattle.org/event/dancehallmecca2023> <http://schema.org/location> "jm" .
+<https://dancehallbattle.org/event/dancehallmecca2023> <http://schema.org/name> "Dancehall Mecca" .
+<https://dancehallbattle.org/event/dancehallmecca2023> <http://schema.org/startDate> "2023-07-24" .
+<https://dancehallbattle.org/event/dancehallmecca2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallmecca2023> <https://dancehallbattle.org/ontology/instagram> "dancehallmeccaja" .
+<https://dancehallbattle.org/event/dancehallmecca2024> <http://schema.org/endDate> "2024-08-10" .
+<https://dancehallbattle.org/event/dancehallmecca2024> <http://schema.org/location> "jm" .
+<https://dancehallbattle.org/event/dancehallmecca2024> <http://schema.org/name> "Dancehall Mecca" .
+<https://dancehallbattle.org/event/dancehallmecca2024> <http://schema.org/startDate> "2024-08-05" .
+<https://dancehallbattle.org/event/dancehallmecca2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallmecca2024> <https://dancehallbattle.org/ontology/instagram> "dancehallmeccaja" .
 <https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/endDate> "2022-10-16" .
 <https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/location> "pl" .
 <https://dancehallbattle.org/event/dancehallmeetup2022> <http://schema.org/name> "Dancehall Meet Up" .
@@ -2417,12 +2429,6 @@
 <https://dancehallbattle.org/event/yaadmanstyle2023> <http://schema.org/startDate> "2023-11-24" .
 <https://dancehallbattle.org/event/yaadmanstyle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/yaadmanstyle2023> <https://dancehallbattle.org/ontology/instagram> "yaadmanstyle_events" .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <http://schema.org/endDate> "2024-06-16" .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <http://schema.org/location> "pl" .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <http://schema.org/name> "Yaad Man Style Summer Festival" .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <http://schema.org/startDate> "2024-06-12" .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/yaadmanstylesummerfestival2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/endDate> "2022-05-22" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/location> "es" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/name> "Yaard Battles Spring Edition" .
