@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/dancefiestavol31all> <http://schema.org/endDate> "2024-05-30" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <http://schema.org/startDate> "2024-05-30" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/be5e4c02> .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/be5e4c02> <http://schema.org/name> "Dune Stephen Mondejar" .
+<https://dancehallbattle.org/dancer/be5e4c02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/be5e4c02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/be5e4c02> <https://dancehallbattle.org/ontology/representsCountry> "ph" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/endDate> "2024-05-31" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/location> "cn" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/name> "Dance Fiesta Vol. 3" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://schema.org/startDate> "2024-05-28" .
+<https://dancehallbattle.org/event/dancefiestavol3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancefiestavol3> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancefiestavol31all> .
+<https://dancehallbattle.org/event/dancefiestavol3> <https://dancehallbattle.org/ontology/instagram> "(null)" .

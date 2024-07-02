@@ -103,6 +103,16 @@
 <https://dancehallbattle.org/battle/dyardfestival20231all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/dyardfestival20231all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/dyardfestival20231all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <http://schema.org/endDate> "2024-06-15" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <http://schema.org/startDate> "2024-06-15" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/bab7d8df> _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20241all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/fiwevents20232all> <http://schema.org/endDate> "2023-06-17" _:b0 .
 <https://dancehallbattle.org/battle/fiwevents20232all> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/fiwevents20232all> <http://schema.org/startDate> "2023-06-17" _:b0 .
@@ -389,6 +399,10 @@
 <https://dancehallbattle.org/event/dyardfestival2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dyardfestival20231all> .
 <https://dancehallbattle.org/event/dyardfestival2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dyardfestival20231all> _:b0 .
 <https://dancehallbattle.org/event/dyardfestival2023> <https://dancehallbattle.org/ontology/instagram> "d_yard_festival" .
+<https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/location> "de" _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/name> "FIWEVENT 3rd Edition" _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/fiwevent20241all> _:b0 .
 <https://dancehallbattle.org/event/fiwevents2023> <http://schema.org/location> "de" _:b0 .
 <https://dancehallbattle.org/event/fiwevents2023> <http://schema.org/name> "FIWEvents 2nd Edition" _:b0 .
 <https://dancehallbattle.org/event/fiwevents2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .

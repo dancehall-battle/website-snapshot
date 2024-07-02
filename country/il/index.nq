@@ -1,0 +1,24 @@
+
+<https://dancehallbattle.org/battle/fiwevent20242all> <http://schema.org/endDate> "2024-06-15" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <http://schema.org/startDate> "2024-06-15" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/cb4f1982> _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/e47e5cc9> _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/fiwevent20242all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/cb4f1982> <http://schema.org/name> "Daha Ice Cream" _:b0 .
+<https://dancehallbattle.org/dancer/cb4f1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/cb4f1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/cb4f1982> <https://dancehallbattle.org/ontology/representsCountry> "ru" _:b0 .
+<https://dancehallbattle.org/dancer/e47e5cc9> <http://schema.org/name> "DHQ Shacki" _:b0 .
+<https://dancehallbattle.org/dancer/e47e5cc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/e47e5cc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/e47e5cc9> <https://dancehallbattle.org/ontology/representsCountry> "il" _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/location> "de" _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/name> "FIWEVENT 3rd Edition" _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/fiwevent2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/fiwevent20242all> _:b0 .
