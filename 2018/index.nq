@@ -342,6 +342,16 @@
 <https://dancehallbattle.org/battle/battleofthebest20231allyardjamdancehallbattle> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/2b5c829d> .
 <https://dancehallbattle.org/battle/battleofthebest20231allyardjamdancehallbattle> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
 <https://dancehallbattle.org/battle/battleofthebest20231allyardjamdancehallbattle> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <http://schema.org/endDate> "2024-06-30" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <http://schema.org/startDate> "2024-06-30" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dimitriskaklamanis> .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/battleofthebestgr20191all> <http://schema.org/endDate> "2019-06-30" .
 <https://dancehallbattle.org/battle/battleofthebestgr20191all> <http://schema.org/name> "(null)" .
 <https://dancehallbattle.org/battle/battleofthebestgr20191all> <http://schema.org/startDate> "2019-06-30" .
@@ -6302,6 +6312,10 @@
 <https://dancehallbattle.org/event/battleofthebest2023> <http://schema.org/name> "Battle Of The Best Armenistis" .
 <https://dancehallbattle.org/event/battleofthebest2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleofthebest2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/battleofthebest20231allyardjamdancehallbattle> .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/location> "gr" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://schema.org/name> "Battle of the Best Armenistis" .
+<https://dancehallbattle.org/event/battleofthebest2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleofthebest2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/battleofthebest20241all> .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://schema.org/location> "gr" .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://schema.org/name> "Battle Of The Best" .
 <https://dancehallbattle.org/event/battleofthebestgr2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
