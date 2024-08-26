@@ -4,6 +4,7 @@
 <https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/77c88086> .
 <https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/c9a5a5c9> .
 <https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/olga> .
+<https://dancehallbattle.org/battle/bbcdancebattle20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/d01ae00b> .
 <https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/6e2d1f7d> .
 <https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/jasminhalper> .
 <https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/703c5c35> .
@@ -255,6 +256,10 @@
 <https://dancehallbattle.org/dancer/cb4f1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/cb4f1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/cb4f1982> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
+<https://dancehallbattle.org/dancer/d01ae00b> <http://schema.org/name> "Lady K" .
+<https://dancehallbattle.org/dancer/d01ae00b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/d01ae00b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/d01ae00b> <https://dancehallbattle.org/ontology/representsCountry> "be" .
 <https://dancehallbattle.org/dancer/d2cc4eae> <http://schema.org/name> "Julia Sułecka" .
 <https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .

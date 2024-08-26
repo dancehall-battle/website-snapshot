@@ -1433,6 +1433,12 @@
 <https://dancehallbattle.org/event/junglebeats-2019> <http://schema.org/startDate> "2019-11-10" .
 <https://dancehallbattle.org/event/junglebeats-2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/junglebeats-2019> <https://dancehallbattle.org/ontology/instagram> "jungle_beats.be" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/endDate> "2024-10-20" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/name> "Jungle Beats" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/startDate> "2024-10-19" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/junglebeats2024> <https://dancehallbattle.org/ontology/instagram> "jungle_beats.be" .
 <https://dancehallbattle.org/event/justabattlevol7> <http://schema.org/endDate> "2019-02-03" .
 <https://dancehallbattle.org/event/justabattlevol7> <http://schema.org/location> "kz" .
 <https://dancehallbattle.org/event/justabattlevol7> <http://schema.org/name> "Just a Battle Vol. 7" .
