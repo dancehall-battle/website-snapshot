@@ -167,12 +167,6 @@
 <https://dancehallbattle.org/event/battleground2019> <http://schema.org/startDate> "2019-05-25" .
 <https://dancehallbattle.org/event/battleground2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleground2019> <https://dancehallbattle.org/ontology/instagram> "battleground_fest" .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <http://schema.org/endDate> "2024-08-31" .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <http://schema.org/location> "fr" .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <http://schema.org/name> "Battle Jamaican Block Party 2024" .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <http://schema.org/startDate> "2024-08-31" .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/battlejamaicanblockparty2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/battleofbotkyrka-2019> <http://schema.org/endDate> "2019-10-26" .
 <https://dancehallbattle.org/event/battleofbotkyrka-2019> <http://schema.org/location> "se" .
 <https://dancehallbattle.org/event/battleofbotkyrka-2019> <http://schema.org/name> "Battle of Botkyrka 2019" .
@@ -281,6 +275,12 @@
 <https://dancehallbattle.org/event/bolosetditrend2023> <http://schema.org/startDate> "2023-09-30" .
 <https://dancehallbattle.org/event/bolosetditrend2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/bolosetditrend2023> <https://dancehallbattle.org/ontology/instagram> "bolo_setditrend" .
+<https://dancehallbattle.org/event/bolosetditrend2024> <http://schema.org/endDate> "2024-09-28" .
+<https://dancehallbattle.org/event/bolosetditrend2024> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/bolosetditrend2024> <http://schema.org/name> "Bolo Set Di Trend" .
+<https://dancehallbattle.org/event/bolosetditrend2024> <http://schema.org/startDate> "2024-09-28" .
+<https://dancehallbattle.org/event/bolosetditrend2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/bolosetditrend2024> <https://dancehallbattle.org/ontology/instagram> "bolo_setditrend" .
 <https://dancehallbattle.org/event/bomboclash2018> <http://schema.org/endDate> "2018-05-06" .
 <https://dancehallbattle.org/event/bomboclash2018> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/bomboclash2018> <http://schema.org/name> "Bombo'clash Festival" .
@@ -1973,12 +1973,6 @@
 <https://dancehallbattle.org/event/rootsworkshops2023> <http://schema.org/startDate> "2023-10-07" .
 <https://dancehallbattle.org/event/rootsworkshops2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/rootsworkshops2023> <https://dancehallbattle.org/ontology/instagram> "(null)" .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <http://schema.org/endDate> "2024-09-14" .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <http://schema.org/location> "no" .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <http://schema.org/name> "Royal 7 to Smoke" .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <http://schema.org/startDate> "2024-09-14" .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/royal7tosmoke2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/rtrivalcontest2019> <http://schema.org/endDate> "2019-10-26" .
 <https://dancehallbattle.org/event/rtrivalcontest2019> <http://schema.org/location> "ro" .
 <https://dancehallbattle.org/event/rtrivalcontest2019> <http://schema.org/name> "R-Trival Contest" .
