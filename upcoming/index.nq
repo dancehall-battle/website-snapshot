@@ -1547,6 +1547,12 @@
 <https://dancehallbattle.org/event/linkup2024> <http://schema.org/startDate> "2024-01-13" .
 <https://dancehallbattle.org/event/linkup2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/linkup2024> <https://dancehallbattle.org/ontology/instagram> "linkup.fiwidancehall" .
+<https://dancehallbattle.org/event/linkup> <http://schema.org/endDate> "2024-09-28" .
+<https://dancehallbattle.org/event/linkup> <http://schema.org/location> "de" .
+<https://dancehallbattle.org/event/linkup> <http://schema.org/name> "Link up" .
+<https://dancehallbattle.org/event/linkup> <http://schema.org/startDate> "2024-09-28" .
+<https://dancehallbattle.org/event/linkup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/linkup> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/lookatmebattle2019> <http://schema.org/endDate> "2019-04-21" .
 <https://dancehallbattle.org/event/lookatmebattle2019> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/lookatmebattle2019> <http://schema.org/name> "Look At Me Battle" .
