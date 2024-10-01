@@ -269,6 +269,16 @@
 <https://dancehallbattle.org/battle/junglebeats-20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/junglebeats-20191all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/junglebeats-20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <http://schema.org/endDate> "2024-09-28" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <http://schema.org/name> "1 vs 1 Male Dancehall" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <http://schema.org/startDate> "2024-09-28" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/slimb> _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/endDate> "2023-06-24" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/startDate> "2023-06-24" _:b0 .
@@ -503,6 +513,10 @@
 <https://dancehallbattle.org/event/junglebeats-2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/junglebeats-20191all> .
 <https://dancehallbattle.org/event/junglebeats-2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/junglebeats-20191all> _:b0 .
 <https://dancehallbattle.org/event/junglebeats-2019> <https://dancehallbattle.org/ontology/instagram> "jungle_beats.be" .
+<https://dancehallbattle.org/event/linkupde2024> <http://schema.org/location> "de" _:b0 .
+<https://dancehallbattle.org/event/linkupde2024> <http://schema.org/name> "Link up" _:b0 .
+<https://dancehallbattle.org/event/linkupde2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/linkupde2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> _:b0 .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/location> "es" _:b0 .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/name> "Massive Weekend Vol. 1" _:b0 .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
