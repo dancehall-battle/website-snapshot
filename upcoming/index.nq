@@ -421,7 +421,7 @@
 <https://dancehallbattle.org/event/clashfyah2023> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/endDate> "2024-10-13" .
 <https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/location> "pe" .
-<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/name> "Event with Classic Blazzaz" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/name> "Out and Bad" .
 <https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/startDate> "2024-10-11" .
 <https://dancehallbattle.org/event/classicblazzazlima2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/classicblazzazlima2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
@@ -629,6 +629,12 @@
 <https://dancehallbattle.org/event/dancehallmilanovybz2023> <http://schema.org/startDate> "2023-12-08" .
 <https://dancehallbattle.org/event/dancehallmilanovybz2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallmilanovybz2023> <https://dancehallbattle.org/ontology/instagram> "dancehall.milano" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/endDate> "2024-12-07" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/location> "Milan" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/name> "Dancehall Milano Vybz" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/startDate> "2024-12-07" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <https://dancehallbattle.org/ontology/instagram> "dancehall.milano" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/endDate> "2022-10-23" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/name> "Dancehall On Stage" .
