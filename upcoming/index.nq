@@ -2105,12 +2105,6 @@
 <https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/startDate> "2023-10-29" .
 <https://dancehallbattle.org/event/spalparkiet2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/spalparkiet2023> <https://dancehallbattle.org/ontology/instagram> "spalparkiet" .
-<https://dancehallbattle.org/event/spalparkiet2024> <http://schema.org/endDate> "2024-10-27" .
-<https://dancehallbattle.org/event/spalparkiet2024> <http://schema.org/location> "pl" .
-<https://dancehallbattle.org/event/spalparkiet2024> <http://schema.org/name> "Spal Parkiet" .
-<https://dancehallbattle.org/event/spalparkiet2024> <http://schema.org/startDate> "2024-10-26" .
-<https://dancehallbattle.org/event/spalparkiet2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/spalparkiet2024> <https://dancehallbattle.org/ontology/instagram> "spalparkiet" .
 <https://dancehallbattle.org/event/specialgyalpoland2019> <http://schema.org/endDate> "2019-03-17" .
 <https://dancehallbattle.org/event/specialgyalpoland2019> <http://schema.org/location> "pl" .
 <https://dancehallbattle.org/event/specialgyalpoland2019> <http://schema.org/name> "Special Gyal Poland" .
@@ -2471,6 +2465,12 @@
 <https://dancehallbattle.org/event/workhardweekend2021> <http://schema.org/startDate> "2021-04-18" .
 <https://dancehallbattle.org/event/workhardweekend2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/workhardweekend2021> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <http://schema.org/endDate> "2025-01-25" .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <http://schema.org/name> "Dancehall workshop and contest with Dikilla" .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <http://schema.org/startDate> "2025-01-25" .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/workshopcontestdikilla2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <http://schema.org/endDate> "2023-11-12" .
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <http://schema.org/location> "pe" .
 <https://dancehallbattle.org/event/worlddancedancehallfestvol1> <http://schema.org/name> "World Dance Dancehall Fest Vol. 1" .

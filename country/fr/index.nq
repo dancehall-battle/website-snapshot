@@ -628,6 +628,16 @@
 <https://dancehallbattle.org/battle/gooodvybzfestival21all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/gooodvybzfestival21all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/gooodvybzfestival21all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <http://schema.org/endDate> "2024-10-19" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <http://schema.org/startDate> "2024-10-19" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/gender> "female" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/701e0d1e> _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/junglebeats20241allfemale> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/endDate> "2023-05-27" .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/name> "(null)" .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/startDate> "2023-05-27" .
@@ -1353,6 +1363,10 @@
 <https://dancehallbattle.org/event/gooodvybzfestival2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/gooodvybzfestival21all> .
 <https://dancehallbattle.org/event/gooodvybzfestival2> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/gooodvybzfestival21all> _:b0 .
 <https://dancehallbattle.org/event/gooodvybzfestival2> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/location> "be" _:b0 .
+<https://dancehallbattle.org/event/junglebeats2024> <http://schema.org/name> "Jungle Beats" _:b0 .
+<https://dancehallbattle.org/event/junglebeats2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/junglebeats2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/junglebeats20241allfemale> _:b0 .
 <https://dancehallbattle.org/event/killdabeat2023> <http://schema.org/endDate> "2023-05-27" .
 <https://dancehallbattle.org/event/killdabeat2023> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/killdabeat2023> <http://schema.org/location> "fr" _:b0 .
