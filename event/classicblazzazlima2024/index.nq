@@ -1,0 +1,49 @@
+
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <http://schema.org/endDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <http://schema.org/startDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/gender> "female" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/f1e51a7d> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <http://schema.org/endDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <http://schema.org/startDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/fa3a093e> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/level> "beginners" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <http://schema.org/endDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <http://schema.org/startDate> "2024-10-13" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/088a0b97> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/088a0b97> <http://schema.org/name> "Joyce Palle" .
+<https://dancehallbattle.org/dancer/088a0b97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/088a0b97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/088a0b97> <https://dancehallbattle.org/ontology/representsCountry> "pe" .
+<https://dancehallbattle.org/dancer/f1e51a7d> <http://schema.org/name> "Jackelyn Gutiérrez" .
+<https://dancehallbattle.org/dancer/f1e51a7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/f1e51a7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/f1e51a7d> <https://dancehallbattle.org/ontology/representsCountry> "pe" .
+<https://dancehallbattle.org/dancer/fa3a093e> <http://schema.org/name> "BaBy 007" .
+<https://dancehallbattle.org/dancer/fa3a093e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/fa3a093e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/fa3a093e> <https://dancehallbattle.org/ontology/representsCountry> "pe" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/endDate> "2024-10-13" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/location> "pe" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/name> "Out and Bad" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://schema.org/startDate> "2024-10-11" .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/classicblazzazlima20241beginners> .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/classicblazzazlima20241pro> .
+<https://dancehallbattle.org/event/classicblazzazlima2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .

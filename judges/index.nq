@@ -5,6 +5,10 @@
 <https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/c9a5a5c9> .
 <https://dancehallbattle.org/battle/battleofthebest20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/olga> .
 <https://dancehallbattle.org/battle/bbcdancebattle20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/d01ae00b> .
+<https://dancehallbattle.org/battle/bolosetditrend20241allfemale> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/48a08e02> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241allfemale> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/8f9650eb> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241beginners> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/d528ebc6> .
+<https://dancehallbattle.org/battle/classicblazzazlima20241pro> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/42a631e3> .
 <https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/6e2d1f7d> .
 <https://dancehallbattle.org/battle/convecaohiphopdance20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/jasminhalper> .
 <https://dancehallbattle.org/battle/dancefiestavol31all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/703c5c35> .
@@ -80,6 +84,7 @@
 <https://dancehallbattle.org/battle/nationsdancefestival20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/f26b1c86> .
 <https://dancehallbattle.org/battle/nationsdancefestival20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/fbff5b23> .
 <https://dancehallbattle.org/battle/pondesama20191all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/katrinwow> .
+<https://dancehallbattle.org/battle/queenandkingoflille20241all> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/8d977ea2> .
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/655abeaa> .
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/8579d0a8> .
 <https://dancehallbattle.org/battle/rulers20241allfemaleyes7tosmokequeenstyle> <https://dancehallbattle.org/ontology/hasJudge> <https://dancehallbattle.org/dancer/996671cc> .
@@ -182,6 +187,10 @@
 <https://dancehallbattle.org/dancer/48618f92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/48618f92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/48618f92> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
+<https://dancehallbattle.org/dancer/48a08e02> <http://schema.org/name> "Dancehall Wazzi" .
+<https://dancehallbattle.org/dancer/48a08e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/48a08e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/48a08e02> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
 <https://dancehallbattle.org/dancer/48a9e8fb> <http://schema.org/name> "Baggy" .
 <https://dancehallbattle.org/dancer/48a9e8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/48a9e8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
@@ -242,6 +251,14 @@
 <https://dancehallbattle.org/dancer/86c2b227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/86c2b227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/86c2b227> <https://dancehallbattle.org/ontology/representsCountry> "jm" .
+<https://dancehallbattle.org/dancer/8d977ea2> <http://schema.org/name> "Loic Ngaibona" .
+<https://dancehallbattle.org/dancer/8d977ea2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/8d977ea2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/8d977ea2> <https://dancehallbattle.org/ontology/representsCountry> "fr" .
+<https://dancehallbattle.org/dancer/8f9650eb> <http://schema.org/name> "Anel Granda" .
+<https://dancehallbattle.org/dancer/8f9650eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/8f9650eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/8f9650eb> <https://dancehallbattle.org/ontology/representsCountry> "pe" .
 <https://dancehallbattle.org/dancer/996671cc> <http://schema.org/name> "Vendela Blackout" .
 <https://dancehallbattle.org/dancer/996671cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/996671cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
@@ -290,6 +307,10 @@
 <https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/d2cc4eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
 <https://dancehallbattle.org/dancer/d2cc4eae> <https://dancehallbattle.org/ontology/representsCountry> "pl" .
+<https://dancehallbattle.org/dancer/d528ebc6> <http://schema.org/name> "Makita Berrios" .
+<https://dancehallbattle.org/dancer/d528ebc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/d528ebc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/d528ebc6> <https://dancehallbattle.org/ontology/representsCountry> "pe" .
 <https://dancehallbattle.org/dancer/dfa53811> <http://schema.org/name> "Geminai Endevarous" .
 <https://dancehallbattle.org/dancer/dfa53811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/dfa53811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
