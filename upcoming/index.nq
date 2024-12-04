@@ -287,6 +287,12 @@
 <https://dancehallbattle.org/event/blackroots2022> <http://schema.org/startDate> "2022-10-01" .
 <https://dancehallbattle.org/event/blackroots2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/blackroots2022> <https://dancehallbattle.org/ontology/instagram> "blackroots.afro" .
+<https://dancehallbattle.org/event/blackroots2024> <http://schema.org/endDate> "2024-12-29" .
+<https://dancehallbattle.org/event/blackroots2024> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/blackroots2024> <http://schema.org/name> "Blackroots" .
+<https://dancehallbattle.org/event/blackroots2024> <http://schema.org/startDate> "2024-12-28" .
+<https://dancehallbattle.org/event/blackroots2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/blackroots2024> <https://dancehallbattle.org/ontology/instagram> "blackroots.afro" .
 <https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/endDate> "2024-06-23" .
 <https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/location> "id" .
 <https://dancehallbattle.org/event/blazinupchapter3-2024> <http://schema.org/name> "Blazin Up Chapter 3: Pon di Connection" .
@@ -1349,6 +1355,12 @@
 <https://dancehallbattle.org/event/gyalupearlyparty> <http://schema.org/startDate> "2023-12-09" .
 <https://dancehallbattle.org/event/gyalupearlyparty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/gyalupearlyparty> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/gyalupyuhself4> <http://schema.org/endDate> "2024-11-30" .
+<https://dancehallbattle.org/event/gyalupyuhself4> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/gyalupyuhself4> <http://schema.org/name> "Gyal Up Yuhself 4" .
+<https://dancehallbattle.org/event/gyalupyuhself4> <http://schema.org/startDate> "2024-11-30" .
+<https://dancehallbattle.org/event/gyalupyuhself4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/gyalupyuhself4> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/gyalvibes2023> <http://schema.org/endDate> "2023-11-06" .
 <https://dancehallbattle.org/event/gyalvibes2023> <http://schema.org/location> "co" .
 <https://dancehallbattle.org/event/gyalvibes2023> <http://schema.org/name> "Gyal Vibes" .
