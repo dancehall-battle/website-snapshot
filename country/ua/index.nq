@@ -172,6 +172,16 @@
 <https://dancehallbattle.org/battle/dancehall-on-don-20211allfemale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/56a92423> _:b0 .
 <https://dancehallbattle.org/battle/dancehall-on-don-20211allfemale> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/dancehall-on-don-20211allfemale> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <http://schema.org/endDate> "2024-12-07" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <http://schema.org/startDate> "2024-12-07" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/250f63cc> _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> <https://dancehallbattle.org/ontology/level> "advanced" _:b0 .
 <https://dancehallbattle.org/battle/demnoready20231beginners> <http://schema.org/endDate> "2023-09-23" .
 <https://dancehallbattle.org/battle/demnoready20231beginners> <http://schema.org/endDate> "2023-09-23" _:b0 .
 <https://dancehallbattle.org/battle/demnoready20231beginners> <http://schema.org/name> "(null)" .
@@ -1645,6 +1655,10 @@
 <https://dancehallbattle.org/dancer/20ef5b4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/20ef5b4c> <https://dancehallbattle.org/ontology/representsCountry> "ua" .
 <https://dancehallbattle.org/dancer/20ef5b4c> <https://dancehallbattle.org/ontology/representsCountry> "ua" _:b0 .
+<https://dancehallbattle.org/dancer/250f63cc> <http://schema.org/name> "Edka" _:b0 .
+<https://dancehallbattle.org/dancer/250f63cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/250f63cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/250f63cc> <https://dancehallbattle.org/ontology/representsCountry> "ua" _:b0 .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://schema.org/name> "Víctor Vásquez" _:b0 .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
 <https://dancehallbattle.org/dancer/2a7184f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
@@ -2102,6 +2116,10 @@
 <https://dancehallbattle.org/event/dancehall-on-don-2021> <http://schema.org/name> "Dancehall-on-Don" _:b0 .
 <https://dancehallbattle.org/event/dancehall-on-don-2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/dancehall-on-don-2021> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehall-on-don-20211allfemale> _:b0 .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/location> "it" _:b0 .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://schema.org/name> "Dancehall Milano Vybz" _:b0 .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dancehallmilanovybz2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallmilanovybz20241advanced> _:b0 .
 <https://dancehallbattle.org/event/demnoready2023> <http://schema.org/endDate> "2023-09-24" .
 <https://dancehallbattle.org/event/demnoready2023> <http://schema.org/location> "ua" .
 <https://dancehallbattle.org/event/demnoready2023> <http://schema.org/location> "ua" _:b0 .
