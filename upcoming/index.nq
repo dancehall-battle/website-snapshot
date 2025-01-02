@@ -1,4 +1,10 @@
 
+<https://dancehallbattle.org/event/1dream1culture2025> <http://schema.org/endDate> "2025-04-13" .
+<https://dancehallbattle.org/event/1dream1culture2025> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/1dream1culture2025> <http://schema.org/name> "1 Dream 1 Culture" .
+<https://dancehallbattle.org/event/1dream1culture2025> <http://schema.org/startDate> "2025-04-11" .
+<https://dancehallbattle.org/event/1dream1culture2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/1dream1culture2025> <https://dancehallbattle.org/ontology/instagram> "1dream1culture" .
 <https://dancehallbattle.org/event/2000sbattle> <http://schema.org/endDate> "2020-09-19" .
 <https://dancehallbattle.org/event/2000sbattle> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/2000sbattle> <http://schema.org/name> "2000s Battle" .
@@ -1961,6 +1967,12 @@
 <https://dancehallbattle.org/event/onlytop-vol11> <http://schema.org/startDate> "2021-04-01" .
 <https://dancehallbattle.org/event/onlytop-vol11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/onlytop-vol11> <https://dancehallbattle.org/ontology/instagram> "onlytopvl" .
+<https://dancehallbattle.org/event/parkietonslask2025> <http://schema.org/endDate> "2025-05-31" .
+<https://dancehallbattle.org/event/parkietonslask2025> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/parkietonslask2025> <http://schema.org/name> "ParkietON ŚLASK 2025" .
+<https://dancehallbattle.org/event/parkietonslask2025> <http://schema.org/startDate> "2025-05-31" .
+<https://dancehallbattle.org/event/parkietonslask2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/parkietonslask2025> <https://dancehallbattle.org/ontology/instagram> "parkieton" .
 <https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/endDate> "2018-11-17" .
 <https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/parthenopebashment2018> <http://schema.org/name> "Parthenope Bashment" .
