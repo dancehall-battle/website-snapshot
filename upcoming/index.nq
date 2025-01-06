@@ -1481,6 +1481,12 @@
 <https://dancehallbattle.org/event/innadimiddle2024> <http://schema.org/startDate> "2024-03-23" .
 <https://dancehallbattle.org/event/innadimiddle2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/innadimiddle2024> <https://dancehallbattle.org/ontology/instagram> "innadhevent" .
+<https://dancehallbattle.org/event/innadimiddle2025> <http://schema.org/endDate> "2025-04-30" .
+<https://dancehallbattle.org/event/innadimiddle2025> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/innadimiddle2025> <http://schema.org/name> "Inna Di Middle" .
+<https://dancehallbattle.org/event/innadimiddle2025> <http://schema.org/startDate> "2025-04-29" .
+<https://dancehallbattle.org/event/innadimiddle2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/innadimiddle2025> <https://dancehallbattle.org/ontology/instagram> "innadhevent" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/endDate> "2019-05-19" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/name> "It’s Like Home" .
@@ -2015,7 +2021,7 @@
 <https://dancehallbattle.org/event/pullup2024> <http://schema.org/startDate> "2024-06-07" .
 <https://dancehallbattle.org/event/pullup2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/pullup2024> <https://dancehallbattle.org/ontology/instagram> "yopullup.fest" .
-<https://dancehallbattle.org/event/pullup2025> <http://schema.org/endDate> "2025-02-04" .
+<https://dancehallbattle.org/event/pullup2025> <http://schema.org/endDate> "2025-05-04" .
 <https://dancehallbattle.org/event/pullup2025> <http://schema.org/location> "at" .
 <https://dancehallbattle.org/event/pullup2025> <http://schema.org/name> "Pull Up" .
 <https://dancehallbattle.org/event/pullup2025> <http://schema.org/startDate> "2025-05-02" .
