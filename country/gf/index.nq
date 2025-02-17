@@ -19,6 +19,17 @@
 <https://dancehallbattle.org/battle/dancehallthemebattle20231allmale> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/7e361c45> _:b0 .
 <https://dancehallbattle.org/battle/dancehallthemebattle20231allmale> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/dancehallthemebattle20231allmale> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <http://schema.org/endDate> "2025-02-09" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <http://schema.org/startDate> "2025-02-09" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/a668376f> _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/louvto> _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/dhieurope20252all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/endDate> "2023-05-27" _:b0 .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/killdabeat20231beginners> <http://schema.org/startDate> "2023-05-27" _:b0 .
@@ -51,6 +62,10 @@
 <https://dancehallbattle.org/dancer/a668376f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
 <https://dancehallbattle.org/dancer/a668376f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/a668376f> <https://dancehallbattle.org/ontology/representsCountry> "gf" _:b0 .
+<https://dancehallbattle.org/dancer/louvto> <http://schema.org/name> "Louvto" _:b0 .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/louvto> <https://dancehallbattle.org/ontology/representsCountry> "fr" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://schema.org/location> "fr" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://schema.org/name> "Battle du Cercle" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
@@ -59,6 +74,10 @@
 <https://dancehallbattle.org/event/dancehallthemebattle2023> <http://schema.org/name> "Dancehall Theme battle" _:b0 .
 <https://dancehallbattle.org/event/dancehallthemebattle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/dancehallthemebattle2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dancehallthemebattle20231allmale> _:b0 .
+<https://dancehallbattle.org/event/dhieurope2025> <http://schema.org/location> "fr" _:b0 .
+<https://dancehallbattle.org/event/dhieurope2025> <http://schema.org/name> "Dancehall International Europe 2025" _:b0 .
+<https://dancehallbattle.org/event/dhieurope2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/dhieurope2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/dhieurope20252all> _:b0 .
 <https://dancehallbattle.org/event/killdabeat2023> <http://schema.org/location> "fr" _:b0 .
 <https://dancehallbattle.org/event/killdabeat2023> <http://schema.org/name> "Kill Da Beat" _:b0 .
 <https://dancehallbattle.org/event/killdabeat2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
