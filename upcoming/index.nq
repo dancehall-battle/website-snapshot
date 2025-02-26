@@ -2141,6 +2141,12 @@
 <https://dancehallbattle.org/event/rigasday-vol2> <http://schema.org/startDate> "2020-02-15" .
 <https://dancehallbattle.org/event/rigasday-vol2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/rigasday-vol2> <https://dancehallbattle.org/ontology/instagram> "rigas_day_vol.2" .
+<https://dancehallbattle.org/event/riseandfall2025> <http://schema.org/endDate> "2025-03-14" .
+<https://dancehallbattle.org/event/riseandfall2025> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/riseandfall2025> <http://schema.org/name> "Rise and Fall Battle" .
+<https://dancehallbattle.org/event/riseandfall2025> <http://schema.org/startDate> "2025-03-14" .
+<https://dancehallbattle.org/event/riseandfall2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/riseandfall2025> <https://dancehallbattle.org/ontology/instagram> "riseandfall_battle" .
 <https://dancehallbattle.org/event/rmbattleday2020> <http://schema.org/endDate> "2020-10-17" .
 <https://dancehallbattle.org/event/rmbattleday2020> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/rmbattleday2020> <http://schema.org/name> "RM Battle Day" .
