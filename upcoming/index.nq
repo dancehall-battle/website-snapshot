@@ -1103,6 +1103,12 @@
 <https://dancehallbattle.org/event/estonianchampionships2024> <http://schema.org/startDate> "2024-05-11" .
 <https://dancehallbattle.org/event/estonianchampionships2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/estonianchampionships2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/estonianchampionships2025> <http://schema.org/endDate> "2025-02-22" .
+<https://dancehallbattle.org/event/estonianchampionships2025> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/estonianchampionships2025> <http://schema.org/name> "Estonian Open Championships in Upper Street Dance Styles & Breaking" .
+<https://dancehallbattle.org/event/estonianchampionships2025> <http://schema.org/startDate> "2025-02-22" .
+<https://dancehallbattle.org/event/estonianchampionships2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/estonianchampionships2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/endDate> "2020-02-23" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/everybodydancehall-2020> <http://schema.org/name> "Everybody Dancehall Vol. 5" .
