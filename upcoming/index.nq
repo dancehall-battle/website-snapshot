@@ -605,6 +605,12 @@
 <https://dancehallbattle.org/event/dancehallday2021> <http://schema.org/startDate> "2021-04-03" .
 <https://dancehallbattle.org/event/dancehallday2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallday2021> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <http://schema.org/endDate> "2025-08-31" .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <http://schema.org/location> "cz" .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <http://schema.org/name> "Dancehall Deep Dive 2025" .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <http://schema.org/startDate> "2025-08-28" .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehalldeepdive2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/dancehallesunion2021> <http://schema.org/endDate> "2021-08-22" .
 <https://dancehallbattle.org/event/dancehallesunion2021> <http://schema.org/location> "co" .
 <https://dancehallbattle.org/event/dancehallesunion2021> <http://schema.org/name> "Dancehall Es Union" .
