@@ -1,4 +1,15 @@
 
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <http://schema.org/endDate> "2025-03-29" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <http://schema.org/startDate> "2025-03-29" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/64a4241e> _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/bab7d8df> _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/battleday41all> <http://schema.org/endDate> "2024-11-23" _:b0 .
 <https://dancehallbattle.org/battle/battleday41all> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/battleday41all> <http://schema.org/startDate> "2024-11-23" _:b0 .
@@ -412,6 +423,10 @@
 <https://dancehallbattle.org/dancer/559c8d38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/559c8d38> <https://dancehallbattle.org/ontology/representsCountry> "be" .
 <https://dancehallbattle.org/dancer/559c8d38> <https://dancehallbattle.org/ontology/representsCountry> "be" _:b0 .
+<https://dancehallbattle.org/dancer/64a4241e> <http://schema.org/name> "Devante albitrouw" _:b0 .
+<https://dancehallbattle.org/dancer/64a4241e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/64a4241e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/64a4241e> <https://dancehallbattle.org/ontology/representsCountry> "nl" _:b0 .
 <https://dancehallbattle.org/dancer/67a013f3> <http://schema.org/name> "Lili" .
 <https://dancehallbattle.org/dancer/67a013f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/67a013f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
@@ -476,6 +491,10 @@
 <https://dancehallbattle.org/dancer/slimb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/slimb> <https://dancehallbattle.org/ontology/representsCountry> "be" .
 <https://dancehallbattle.org/dancer/slimb> <https://dancehallbattle.org/ontology/representsCountry> "be" _:b0 .
+<https://dancehallbattle.org/event/amsterdamdancehallcamp2025> <http://schema.org/location> "nl" _:b0 .
+<https://dancehallbattle.org/event/amsterdamdancehallcamp2025> <http://schema.org/name> "Amsterdam Dancehall Camp" _:b0 .
+<https://dancehallbattle.org/event/amsterdamdancehallcamp2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/amsterdamdancehallcamp2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/amsterdamdancehallcamp20252all> _:b0 .
 <https://dancehallbattle.org/event/battleday4> <http://schema.org/location> "ee" _:b0 .
 <https://dancehallbattle.org/event/battleday4> <http://schema.org/name> "Battle Day IV" _:b0 .
 <https://dancehallbattle.org/event/battleday4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
