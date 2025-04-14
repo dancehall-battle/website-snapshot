@@ -2003,6 +2003,12 @@
 <https://dancehallbattle.org/event/nordicdynamite2024> <http://schema.org/startDate> "2024-05-01" .
 <https://dancehallbattle.org/event/nordicdynamite2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/nordicdynamite2024> <https://dancehallbattle.org/ontology/instagram> "nordic_dynamite" .
+<https://dancehallbattle.org/event/nordicdynamite2025> <http://schema.org/endDate> "2025-05-24" .
+<https://dancehallbattle.org/event/nordicdynamite2025> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/nordicdynamite2025> <http://schema.org/name> "Nordic Dynamite" .
+<https://dancehallbattle.org/event/nordicdynamite2025> <http://schema.org/startDate> "2025-05-24" .
+<https://dancehallbattle.org/event/nordicdynamite2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/nordicdynamite2025> <https://dancehallbattle.org/ontology/instagram> "nordic_dynamite" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/endDate> "2019-03-16" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/northeastbattle2019> <http://schema.org/name> "North East Battle" .
@@ -2405,6 +2411,12 @@
 <https://dancehallbattle.org/event/streetkings2023> <http://schema.org/startDate> "2023-06-03" .
 <https://dancehallbattle.org/event/streetkings2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/streetkings2023> <https://dancehallbattle.org/ontology/instagram> "street_kings_italy" .
+<https://dancehallbattle.org/event/streetkings2025> <http://schema.org/endDate> "2025-06-01" .
+<https://dancehallbattle.org/event/streetkings2025> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/streetkings2025> <http://schema.org/name> "Street Kings" .
+<https://dancehallbattle.org/event/streetkings2025> <http://schema.org/startDate> "2025-05-31" .
+<https://dancehallbattle.org/event/streetkings2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/streetkings2025> <https://dancehallbattle.org/ontology/instagram> "street_kings_italy" .
 <https://dancehallbattle.org/event/streetstar2021> <http://schema.org/endDate> "2021-12-12" .
 <https://dancehallbattle.org/event/streetstar2021> <http://schema.org/location> "se" .
 <https://dancehallbattle.org/event/streetstar2021> <http://schema.org/name> "Streetstar Sisters & Brothers Battle" .
