@@ -2219,6 +2219,12 @@
 <https://dancehallbattle.org/event/rulers2024> <http://schema.org/startDate> "2024-04-26" .
 <https://dancehallbattle.org/event/rulers2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/rulers2024> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/endDate> "2025-04-26" .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/name> "Rulers" .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/startDate> "2025-04-23" .
+<https://dancehallbattle.org/event/rulers2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/endDate> "2024-06-08" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/name> "Sand It Up" .
