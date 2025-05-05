@@ -1811,6 +1811,17 @@
 <https://dancehallbattle.org/battle/redhotbattle-vol51pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/redhotbattle-vol51pro> <https://dancehallbattle.org/ontology/level> "pro" .
 <https://dancehallbattle.org/battle/redhotbattle-vol51pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/endDate> "2025-04-25" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/startDate> "2025-04-25" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/7e361c45> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/sabinafattakhova> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
 <https://dancehallbattle.org/battle/specialgyalrussia20191allfemale> <http://schema.org/endDate> "2019-03-30" .
 <https://dancehallbattle.org/battle/specialgyalrussia20191allfemale> <http://schema.org/endDate> "2019-03-30" _:b0 .
 <https://dancehallbattle.org/battle/specialgyalrussia20191allfemale> <http://schema.org/name> "(null)" .
@@ -2494,6 +2505,10 @@
 <https://dancehallbattle.org/dancer/7256f789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/7256f789> <https://dancehallbattle.org/ontology/representsCountry> "ru" .
 <https://dancehallbattle.org/dancer/7256f789> <https://dancehallbattle.org/ontology/representsCountry> "ru" _:b0 .
+<https://dancehallbattle.org/dancer/7e361c45> <http://schema.org/name> "Kimahty" _:b0 .
+<https://dancehallbattle.org/dancer/7e361c45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/7e361c45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/7e361c45> <https://dancehallbattle.org/ontology/representsCountry> "gf" _:b0 .
 <https://dancehallbattle.org/dancer/830de740> <http://schema.org/name> "Софья Колодежанская" .
 <https://dancehallbattle.org/dancer/830de740> <http://schema.org/name> "Софья Колодежанская" _:b0 .
 <https://dancehallbattle.org/dancer/830de740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
@@ -3564,6 +3579,10 @@
 <https://dancehallbattle.org/event/redhotbattle-vol5> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/redhotbattle-vol51pro> .
 <https://dancehallbattle.org/event/redhotbattle-vol5> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/redhotbattle-vol51pro> _:b0 .
 <https://dancehallbattle.org/event/redhotbattle-vol5> <https://dancehallbattle.org/ontology/instagram> "red_hot_battle" .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/name> "Rulers" _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20252pro> _:b0 .
 <https://dancehallbattle.org/event/specialgyalrussia2019> <http://schema.org/endDate> "2019-03-31" .
 <https://dancehallbattle.org/event/specialgyalrussia2019> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/specialgyalrussia2019> <http://schema.org/location> "ru" _:b0 .

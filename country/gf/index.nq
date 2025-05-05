@@ -50,6 +50,17 @@
 <https://dancehallbattle.org/battle/movetophilia20231all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/50753e72> _:b0 .
 <https://dancehallbattle.org/battle/movetophilia20231all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/movetophilia20231all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/endDate> "2025-04-25" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://schema.org/startDate> "2025-04-25" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/7e361c45> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/sabinafattakhova> _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
 <https://dancehallbattle.org/dancer/50753e72> <http://schema.org/name> "Sunshine" _:b0 .
 <https://dancehallbattle.org/dancer/50753e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
 <https://dancehallbattle.org/dancer/50753e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
@@ -66,6 +77,10 @@
 <https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
 <https://dancehallbattle.org/dancer/louvto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
 <https://dancehallbattle.org/dancer/louvto> <https://dancehallbattle.org/ontology/representsCountry> "fr" _:b0 .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://schema.org/name> "Salamander" _:b0 .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> _:b0 .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> _:b0 .
+<https://dancehallbattle.org/dancer/sabinafattakhova> <https://dancehallbattle.org/ontology/representsCountry> "ru" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://schema.org/location> "fr" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://schema.org/name> "Battle du Cercle" _:b0 .
 <https://dancehallbattle.org/event/battleducercle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
@@ -86,3 +101,7 @@
 <https://dancehallbattle.org/event/movetophilia2023> <http://schema.org/name> "Movetophilia" _:b0 .
 <https://dancehallbattle.org/event/movetophilia2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/movetophilia2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/movetophilia20231all> _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <http://schema.org/name> "Rulers" _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20252pro> _:b0 .

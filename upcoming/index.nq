@@ -155,6 +155,12 @@
 <https://dancehallbattle.org/event/battledancehallolympics2024> <http://schema.org/startDate> "2024-08-01" .
 <https://dancehallbattle.org/event/battledancehallolympics2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battledancehallolympics2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/battleday1-2025> <http://schema.org/endDate> "2025-04-26" .
+<https://dancehallbattle.org/event/battleday1-2025> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/battleday1-2025> <http://schema.org/name> "Battle Day I" .
+<https://dancehallbattle.org/event/battleday1-2025> <http://schema.org/startDate> "2025-04-26" .
+<https://dancehallbattle.org/event/battleday1-2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleday1-2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/battleday3> <http://schema.org/endDate> "2024-10-26" .
 <https://dancehallbattle.org/event/battleday3> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/battleday3> <http://schema.org/name> "Battle Day III" .
@@ -2231,6 +2237,12 @@
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/startDate> "2024-06-08" .
 <https://dancehallbattle.org/event/sanditup2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/sanditup2024> <https://dancehallbattle.org/ontology/instagram> "sand_it_up" .
+<https://dancehallbattle.org/event/sanditup2025> <http://schema.org/endDate> "2025-06-28" .
+<https://dancehallbattle.org/event/sanditup2025> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/sanditup2025> <http://schema.org/name> "Sand It Up" .
+<https://dancehallbattle.org/event/sanditup2025> <http://schema.org/startDate> "2025-06-28" .
+<https://dancehallbattle.org/event/sanditup2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/sanditup2025> <https://dancehallbattle.org/ontology/instagram> "sand_it_up" .
 <https://dancehallbattle.org/event/sdk-ua2019> <http://schema.org/endDate> "2019-03-23" .
 <https://dancehallbattle.org/event/sdk-ua2019> <http://schema.org/location> "ua" .
 <https://dancehallbattle.org/event/sdk-ua2019> <http://schema.org/name> "SDK Ukraine" .
