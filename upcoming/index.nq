@@ -1439,6 +1439,12 @@
 <https://dancehallbattle.org/event/grittyvibes2022> <http://schema.org/startDate> "2022-04-09" .
 <https://dancehallbattle.org/event/grittyvibes2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/grittyvibes2022> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/grow2025> <http://schema.org/endDate> "2025-06-28" .
+<https://dancehallbattle.org/event/grow2025> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/grow2025> <http://schema.org/name> "Grow With Dancehall" .
+<https://dancehallbattle.org/event/grow2025> <http://schema.org/startDate> "2025-06-28" .
+<https://dancehallbattle.org/event/grow2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/grow2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/gyalupearlyparty> <http://schema.org/endDate> "2023-12-09" .
 <https://dancehallbattle.org/event/gyalupearlyparty> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/gyalupearlyparty> <http://schema.org/name> "Gyal Up Early Party" .
