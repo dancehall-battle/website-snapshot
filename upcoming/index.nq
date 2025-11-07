@@ -287,6 +287,12 @@
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <http://schema.org/startDate> "2024-12-15" .
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/endDate> "2024-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/location> "gr" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/name> "Battle Of The Best" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/startDate> "2024-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
 <https://dancehallbattle.org/event/bbcdancebattle2023> <http://schema.org/endDate> "2023-08-26" .
 <https://dancehallbattle.org/event/bbcdancebattle2023> <http://schema.org/location> "be" .
 <https://dancehallbattle.org/event/bbcdancebattle2023> <http://schema.org/name> "Bomboclat Dance Battle" .
@@ -2801,12 +2807,6 @@
 <https://dancehallbattle.org/event/yaadmanstyle2023> <http://schema.org/startDate> "2023-11-24" .
 <https://dancehallbattle.org/event/yaadmanstyle2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/yaadmanstyle2023> <https://dancehallbattle.org/ontology/instagram> "yaadmanstyle_events" .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <http://schema.org/endDate> "2025-11-16" .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <http://schema.org/location> "pl" .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <http://schema.org/name> "Yaad Man Style" .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <http://schema.org/startDate> "2025-11-15" .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/yaadmanstyle2025> <https://dancehallbattle.org/ontology/instagram> "yaadmanstyle_events" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/endDate> "2022-05-22" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/location> "es" .
 <https://dancehallbattle.org/event/yaardbattlesspring2022> <http://schema.org/name> "Yaard Battles Spring Edition" .
