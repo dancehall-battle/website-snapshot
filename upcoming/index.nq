@@ -287,10 +287,10 @@
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <http://schema.org/startDate> "2024-12-15" .
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleofthebestgr2024thessaloniki> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
-<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/endDate> "2024-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/endDate> "2025-12-14" .
 <https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/location> "gr" .
 <https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/name> "Battle Of The Best" .
-<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/startDate> "2024-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/startDate> "2025-12-14" .
 <https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
 <https://dancehallbattle.org/event/bbcdancebattle2023> <http://schema.org/endDate> "2023-08-26" .
@@ -1289,6 +1289,12 @@
 <https://dancehallbattle.org/event/fiwevent2025> <http://schema.org/startDate> "2025-06-20" .
 <https://dancehallbattle.org/event/fiwevent2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/fiwevent2025> <https://dancehallbattle.org/ontology/instagram> "fiwevent_" .
+<https://dancehallbattle.org/event/fiwevent2026> <http://schema.org/endDate> "2026-06-21" .
+<https://dancehallbattle.org/event/fiwevent2026> <http://schema.org/location> "de" .
+<https://dancehallbattle.org/event/fiwevent2026> <http://schema.org/name> "FIWEVENT 5th Edition" .
+<https://dancehallbattle.org/event/fiwevent2026> <http://schema.org/startDate> "2026-06-19" .
+<https://dancehallbattle.org/event/fiwevent2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/fiwevent2026> <https://dancehallbattle.org/ontology/instagram> "fiwevent_" .
 <https://dancehallbattle.org/event/fiwevents2023> <http://schema.org/endDate> "2023-06-18" .
 <https://dancehallbattle.org/event/fiwevents2023> <http://schema.org/location> "de" .
 <https://dancehallbattle.org/event/fiwevents2023> <http://schema.org/name> "FIWEvents 2nd Edition" .
