@@ -125,6 +125,12 @@
 <https://dancehallbattle.org/event/backtothesouth-2019> <http://schema.org/startDate> "2019-10-19" .
 <https://dancehallbattle.org/event/backtothesouth-2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/backtothesouth-2019> <https://dancehallbattle.org/ontology/instagram> "back_to_the_south" .
+<https://dancehallbattle.org/event/baddie2025> <http://schema.org/endDate> "2025-11-29" .
+<https://dancehallbattle.org/event/baddie2025> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/baddie2025> <http://schema.org/name> "Baddie Dancehall Event" .
+<https://dancehallbattle.org/event/baddie2025> <http://schema.org/startDate> "2025-11-29" .
+<https://dancehallbattle.org/event/baddie2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/baddie2025> <https://dancehallbattle.org/ontology/instagram> "baddievent" .
 <https://dancehallbattle.org/event/baddishweekend2022> <http://schema.org/endDate> "2022-07-02" .
 <https://dancehallbattle.org/event/baddishweekend2022> <http://schema.org/location> "sk" .
 <https://dancehallbattle.org/event/baddishweekend2022> <http://schema.org/name> "Baddish Weekend Vol. 7" .
