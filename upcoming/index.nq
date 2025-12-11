@@ -1283,6 +1283,12 @@
 <https://dancehallbattle.org/event/fidigyaldem2019> <http://schema.org/startDate> "2019-05-04" .
 <https://dancehallbattle.org/event/fidigyaldem2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/fidigyaldem2019> <https://dancehallbattle.org/ontology/instagram> "kasko_flowinstyle" .
+<https://dancehallbattle.org/event/firstflame2025> <http://schema.org/endDate> "0205-12-06" .
+<https://dancehallbattle.org/event/firstflame2025> <http://schema.org/location> "kr" .
+<https://dancehallbattle.org/event/firstflame2025> <http://schema.org/name> "First Flame" .
+<https://dancehallbattle.org/event/firstflame2025> <http://schema.org/startDate> "0205-12-06" .
+<https://dancehallbattle.org/event/firstflame2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/firstflame2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/endDate> "2024-06-16" .
 <https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/location> "de" .
 <https://dancehallbattle.org/event/fiwevent2024> <http://schema.org/name> "FIWEVENT 3rd Edition" .
