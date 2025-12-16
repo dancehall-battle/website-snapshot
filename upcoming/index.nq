@@ -203,6 +203,12 @@
 <https://dancehallbattle.org/event/battleducercle2024> <http://schema.org/startDate> "2024-11-10" .
 <https://dancehallbattle.org/event/battleducercle2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleducercle2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/endDate> "2026-02-15" .
+<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/name> "Le Battle Du Cercle" .
+<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/startDate> "2026-02-15" .
+<https://dancehallbattle.org/event/battleducercle2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleducercle2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/endDate> "2024-09-01" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/name> "Battle Feel di Flow 2024" .
