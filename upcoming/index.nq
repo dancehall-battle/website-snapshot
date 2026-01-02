@@ -203,12 +203,12 @@
 <https://dancehallbattle.org/event/battleducercle2024> <http://schema.org/startDate> "2024-11-10" .
 <https://dancehallbattle.org/event/battleducercle2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/battleducercle2024> <https://dancehallbattle.org/ontology/instagram> "(null)" .
-<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/endDate> "2026-02-15" .
-<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/location> "fr" .
-<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/name> "Le Battle Du Cercle" .
-<https://dancehallbattle.org/event/battleducercle2025> <http://schema.org/startDate> "2026-02-15" .
-<https://dancehallbattle.org/event/battleducercle2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
-<https://dancehallbattle.org/event/battleducercle2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/battleducercle2026> <http://schema.org/endDate> "2026-02-15" .
+<https://dancehallbattle.org/event/battleducercle2026> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/battleducercle2026> <http://schema.org/name> "Le Battle Du Cercle" .
+<https://dancehallbattle.org/event/battleducercle2026> <http://schema.org/startDate> "2026-02-15" .
+<https://dancehallbattle.org/event/battleducercle2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleducercle2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/endDate> "2024-09-01" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/battlefeeldiflow2024> <http://schema.org/name> "Battle Feel di Flow 2024" .
@@ -1601,6 +1601,12 @@
 <https://dancehallbattle.org/event/innadimiddle2025> <http://schema.org/startDate> "2025-03-29" .
 <https://dancehallbattle.org/event/innadimiddle2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/innadimiddle2025> <https://dancehallbattle.org/ontology/instagram> "innadhevent" .
+<https://dancehallbattle.org/event/innadimiddle2026> <http://schema.org/endDate> "2026-03-15" .
+<https://dancehallbattle.org/event/innadimiddle2026> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/innadimiddle2026> <http://schema.org/name> "Inna Di Middle" .
+<https://dancehallbattle.org/event/innadimiddle2026> <http://schema.org/startDate> "2026-03-14" .
+<https://dancehallbattle.org/event/innadimiddle2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/innadimiddle2026> <https://dancehallbattle.org/ontology/instagram> "innadhevent" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/endDate> "2019-05-19" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/itslikehome2019> <http://schema.org/name> "It’s Like Home" .
@@ -1685,6 +1691,12 @@
 <https://dancehallbattle.org/event/justbounce2018> <http://schema.org/startDate> "2018-12-29" .
 <https://dancehallbattle.org/event/justbounce2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/justbounce2018> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/endDate> "2026-03-08" .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/name> "Juste Debout" .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/startDate> "2026-03-05" .
+<https://dancehallbattle.org/event/justedebout2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/justedebout2026> <https://dancehallbattle.org/ontology/instagram> "justedebout_officiel" .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://schema.org/endDate> "2024-12-15" .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://schema.org/location> "ph" .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://schema.org/name> "Kaleidoscope Jam 2024" .
@@ -2291,6 +2303,12 @@
 <https://dancehallbattle.org/event/rulers2025> <http://schema.org/startDate> "2025-04-23" .
 <https://dancehallbattle.org/event/rulers2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/endDate> "2026-04-26" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/name> "Rulers" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/startDate> "2026-04-23" .
+<https://dancehallbattle.org/event/rulers2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/endDate> "2024-06-08" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/location> "it" .
 <https://dancehallbattle.org/event/sanditup2024> <http://schema.org/name> "Sand It Up" .
@@ -2861,6 +2879,12 @@
 <https://dancehallbattle.org/event/yasso2025> <http://schema.org/startDate> "2025-02-01" .
 <https://dancehallbattle.org/event/yasso2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/yasso2025> <https://dancehallbattle.org/ontology/instagram> "yasso_dh_event_" .
+<https://dancehallbattle.org/event/yasso2026> <http://schema.org/endDate> "2026-02-01" .
+<https://dancehallbattle.org/event/yasso2026> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/yasso2026> <http://schema.org/name> "Yasso Dancehall Event" .
+<https://dancehallbattle.org/event/yasso2026> <http://schema.org/startDate> "2026-01-31" .
+<https://dancehallbattle.org/event/yasso2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/yasso2026> <https://dancehallbattle.org/ontology/instagram> "yasso_dh_event_" .
 <https://dancehallbattle.org/event/yeahbattle2021> <http://schema.org/endDate> "2021-03-07" .
 <https://dancehallbattle.org/event/yeahbattle2021> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/yeahbattle2021> <http://schema.org/name> "Yeah Battle" .
