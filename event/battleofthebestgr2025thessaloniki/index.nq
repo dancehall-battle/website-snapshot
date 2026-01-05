@@ -1,0 +1,21 @@
+
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <http://schema.org/endDate> "2025-12-14" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <http://schema.org/startDate> "2025-12-14" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/50753e72> .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/50753e72> <http://schema.org/name> "Sunshine" .
+<https://dancehallbattle.org/dancer/50753e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/50753e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/50753e72> <https://dancehallbattle.org/ontology/representsCountry> "gf" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/endDate> "2025-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/location> "gr" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/name> "Battle Of The Best" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://schema.org/startDate> "2025-12-14" .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/battleofthebestgr2025thessaloniki1all> .
+<https://dancehallbattle.org/event/battleofthebestgr2025thessaloniki> <https://dancehallbattle.org/ontology/instagram> "battleofthebest.gr" .
