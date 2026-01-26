@@ -1361,6 +1361,36 @@
 <https://dancehallbattle.org/event/forumurbandance2024> <http://schema.org/startDate> "2024-07-12" .
 <https://dancehallbattle.org/event/forumurbandance2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/forumurbandance2024> <https://dancehallbattle.org/ontology/instagram> "forum.urban.dance" .
+<https://dancehallbattle.org/event/friendlybattle202601> <http://schema.org/endDate> "2026-01-28" .
+<https://dancehallbattle.org/event/friendlybattle202601> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/friendlybattle202601> <http://schema.org/name> "Friendly Battle" .
+<https://dancehallbattle.org/event/friendlybattle202601> <http://schema.org/startDate> "2026-01-28" .
+<https://dancehallbattle.org/event/friendlybattle202601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/friendlybattle202601> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/friendlybattle202602> <http://schema.org/endDate> "2026-02-25" .
+<https://dancehallbattle.org/event/friendlybattle202602> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/friendlybattle202602> <http://schema.org/name> "Friendly Battle" .
+<https://dancehallbattle.org/event/friendlybattle202602> <http://schema.org/startDate> "2026-02-25" .
+<https://dancehallbattle.org/event/friendlybattle202602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/friendlybattle202602> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/friendlybattle202603> <http://schema.org/endDate> "2026-03-25" .
+<https://dancehallbattle.org/event/friendlybattle202603> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/friendlybattle202603> <http://schema.org/name> "Friendly Battle" .
+<https://dancehallbattle.org/event/friendlybattle202603> <http://schema.org/startDate> "2026-03-25" .
+<https://dancehallbattle.org/event/friendlybattle202603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/friendlybattle202603> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/friendlybattle202604> <http://schema.org/endDate> "2026-04-29" .
+<https://dancehallbattle.org/event/friendlybattle202604> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/friendlybattle202604> <http://schema.org/name> "Friendly Battle" .
+<https://dancehallbattle.org/event/friendlybattle202604> <http://schema.org/startDate> "2026-04-29" .
+<https://dancehallbattle.org/event/friendlybattle202604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/friendlybattle202604> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/friendlybattle202605> <http://schema.org/endDate> "2026-05-27" .
+<https://dancehallbattle.org/event/friendlybattle202605> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/friendlybattle202605> <http://schema.org/name> "Friendly Battle" .
+<https://dancehallbattle.org/event/friendlybattle202605> <http://schema.org/startDate> "2026-05-27" .
+<https://dancehallbattle.org/event/friendlybattle202605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/friendlybattle202605> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/fullvybzday2019> <http://schema.org/endDate> "2019-05-18" .
 <https://dancehallbattle.org/event/fullvybzday2019> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/fullvybzday2019> <http://schema.org/name> "Fullvybz Day" .
