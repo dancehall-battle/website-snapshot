@@ -761,6 +761,12 @@
 <https://dancehallbattle.org/event/dancehallordie2024> <http://schema.org/startDate> "2024-03-16" .
 <https://dancehallbattle.org/event/dancehallordie2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallordie2024> <https://dancehallbattle.org/ontology/instagram> "dancehallordie" .
+<https://dancehallbattle.org/event/dancehallordie2026> <http://schema.org/endDate> "2026-03-15" .
+<https://dancehallbattle.org/event/dancehallordie2026> <http://schema.org/location> "pl" .
+<https://dancehallbattle.org/event/dancehallordie2026> <http://schema.org/name> "Dancehall or Die French Edition" .
+<https://dancehallbattle.org/event/dancehallordie2026> <http://schema.org/startDate> "2026-03-14" .
+<https://dancehallbattle.org/event/dancehallordie2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallordie2026> <https://dancehallbattle.org/ontology/instagram> "dancehallordie" .
 <https://dancehallbattle.org/event/dancehallpower-vol4> <http://schema.org/endDate> "2019-11-17" .
 <https://dancehallbattle.org/event/dancehallpower-vol4> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/dancehallpower-vol4> <http://schema.org/name> "Dancehall Power Vol. 4" .
