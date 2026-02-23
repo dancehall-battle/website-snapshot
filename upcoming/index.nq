@@ -503,6 +503,12 @@
 <https://dancehallbattle.org/event/comebackvol2-2021> <http://schema.org/startDate> "2021-09-18" .
 <https://dancehallbattle.org/event/comebackvol2-2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/comebackvol2-2021> <https://dancehallbattle.org/ontology/instagram> "comeback_vol.2" .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <http://schema.org/endDate> "2026-03-08" .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <http://schema.org/location> "cz" .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <http://schema.org/name> "Community Dancehall Battle" .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <http://schema.org/startDate> "2026-03-08" .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/communitydancehallbattle2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/connectdancecamp2024> <http://schema.org/endDate> "2024-01-28" .
 <https://dancehallbattle.org/event/connectdancecamp2024> <http://schema.org/location> "ua" .
 <https://dancehallbattle.org/event/connectdancecamp2024> <http://schema.org/name> "Connect Dance Camp" .
