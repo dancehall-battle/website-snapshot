@@ -953,6 +953,12 @@
 <https://dancehallbattle.org/event/dhfareast2019> <http://schema.org/startDate> "2019-05-01" .
 <https://dancehallbattle.org/event/dhfareast2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dhfareast2019> <https://dancehallbattle.org/ontology/instagram> "dancehallfareast" .
+<https://dancehallbattle.org/event/dhfunvybz2026> <http://schema.org/endDate> "2026-04-11" .
+<https://dancehallbattle.org/event/dhfunvybz2026> <http://schema.org/location> "es" .
+<https://dancehallbattle.org/event/dhfunvybz2026> <http://schema.org/name> "Battles after Geminai Endevarous' workshop" .
+<https://dancehallbattle.org/event/dhfunvybz2026> <http://schema.org/startDate> "2026-04-11" .
+<https://dancehallbattle.org/event/dhfunvybz2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dhfunvybz2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/dhi-asia> <http://schema.org/endDate> "2019-03-31" .
 <https://dancehallbattle.org/event/dhi-asia> <http://schema.org/location> "cn" .
 <https://dancehallbattle.org/event/dhi-asia> <http://schema.org/name> "Dancehall International Asia" .
