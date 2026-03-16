@@ -3088,6 +3088,17 @@
 <https://dancehallbattle.org/battle/justbounce20181all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/future> .
 <https://dancehallbattle.org/battle/justbounce20181all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
 <https://dancehallbattle.org/battle/justbounce20181all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/justedebout20262all> <http://schema.org/endDate> "2026-03-08" .
+<https://dancehallbattle.org/battle/justedebout20262all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/justedebout20262all> <http://schema.org/startDate> "2026-03-08" .
+<https://dancehallbattle.org/battle/justedebout20262all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/dikilla> .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/louvto> .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/justedebout20262all> <https://dancehallbattle.org/ontology/level> "all" .
 <https://dancehallbattle.org/battle/kaleidoscopejam20241all> <http://schema.org/endDate> "2024-12-15" .
 <https://dancehallbattle.org/battle/kaleidoscopejam20241all> <http://schema.org/name> "(null)" .
 <https://dancehallbattle.org/battle/kaleidoscopejam20241all> <http://schema.org/startDate> "2024-12-15" .
@@ -7748,6 +7759,10 @@
 <https://dancehallbattle.org/event/justbounce2018> <http://schema.org/name> "Just Bounce Battle Vol. 2 " .
 <https://dancehallbattle.org/event/justbounce2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/justbounce2018> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/justbounce20181all> .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/justedebout2026> <http://schema.org/name> "Juste Debout" .
+<https://dancehallbattle.org/event/justedebout2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/justedebout2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/justedebout20262all> .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://schema.org/location> "ph" .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://schema.org/name> "Kaleidoscope Jam 2024" .
 <https://dancehallbattle.org/event/kaleidoscopejam2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
