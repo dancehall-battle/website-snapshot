@@ -1673,6 +1673,12 @@
 <https://dancehallbattle.org/event/itslikehome2023> <http://schema.org/startDate> "2023-05-20" .
 <https://dancehallbattle.org/event/itslikehome2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/itslikehome2023> <https://dancehallbattle.org/ontology/instagram> "itslikehome_" .
+<https://dancehallbattle.org/event/itslikehome2026> <http://schema.org/endDate> "2026-04-11" .
+<https://dancehallbattle.org/event/itslikehome2026> <http://schema.org/location> "ee" .
+<https://dancehallbattle.org/event/itslikehome2026> <http://schema.org/name> "It's Like Home" .
+<https://dancehallbattle.org/event/itslikehome2026> <http://schema.org/startDate> "2026-04-11" .
+<https://dancehallbattle.org/event/itslikehome2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/itslikehome2026> <https://dancehallbattle.org/ontology/instagram> "itslikehome_" .
 <https://dancehallbattle.org/event/itslikehomeallin2019> <http://schema.org/endDate> "2019-10-06" .
 <https://dancehallbattle.org/event/itslikehomeallin2019> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/itslikehomeallin2019> <http://schema.org/name> "It's Like Home: All In" .
