@@ -2225,6 +2225,18 @@
 <https://dancehallbattle.org/event/pullup2025> <http://schema.org/startDate> "2025-05-02" .
 <https://dancehallbattle.org/event/pullup2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/pullup2025> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/pullup2026> <http://schema.org/endDate> "2026-06-07" .
+<https://dancehallbattle.org/event/pullup2026> <http://schema.org/location> "ua" .
+<https://dancehallbattle.org/event/pullup2026> <http://schema.org/name> "Pull Up Vol. 4" .
+<https://dancehallbattle.org/event/pullup2026> <http://schema.org/startDate> "2026-06-06" .
+<https://dancehallbattle.org/event/pullup2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/pullup2026> <https://dancehallbattle.org/ontology/instagram> "yopullup.fest" .
+<https://dancehallbattle.org/event/pullupfest2025> <http://schema.org/endDate> "2025-06-08" .
+<https://dancehallbattle.org/event/pullupfest2025> <http://schema.org/location> "ua" .
+<https://dancehallbattle.org/event/pullupfest2025> <http://schema.org/name> "Pull Up Vol. 3" .
+<https://dancehallbattle.org/event/pullupfest2025> <http://schema.org/startDate> "2025-06-07" .
+<https://dancehallbattle.org/event/pullupfest2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/pullupfest2025> <https://dancehallbattle.org/ontology/instagram> "yopullup.fest" .
 <https://dancehallbattle.org/event/qot_ua2019> <http://schema.org/endDate> "2019-10-06" .
 <https://dancehallbattle.org/event/qot_ua2019> <http://schema.org/location> "ua" .
 <https://dancehallbattle.org/event/qot_ua2019> <http://schema.org/name> "Queens on Top Ukraine" .
@@ -2609,6 +2621,12 @@
 <https://dancehallbattle.org/event/stylinthebeat4> <http://schema.org/startDate> "2019-03-31" .
 <https://dancehallbattle.org/event/stylinthebeat4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/stylinthebeat4> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/summerbounceasia> <http://schema.org/endDate> "2026-05-31" .
+<https://dancehallbattle.org/event/summerbounceasia> <http://schema.org/location> "ph" .
+<https://dancehallbattle.org/event/summerbounceasia> <http://schema.org/name> "Summer Bounce Asia" .
+<https://dancehallbattle.org/event/summerbounceasia> <http://schema.org/startDate> "2026-05-30" .
+<https://dancehallbattle.org/event/summerbounceasia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/summerbounceasia> <https://dancehallbattle.org/ontology/instagram> "summerbounceasia" .
 <https://dancehallbattle.org/event/summervibes2019> <http://schema.org/endDate> "2019-08-18" .
 <https://dancehallbattle.org/event/summervibes2019> <http://schema.org/location> "ru" .
 <https://dancehallbattle.org/event/summervibes2019> <http://schema.org/name> "Summer Vibes" .
