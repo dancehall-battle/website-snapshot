@@ -262,6 +262,16 @@
 <https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/sabinafattakhova> .
 <https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
 <https://dancehallbattle.org/battle/rulers20252pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/endDate> "2026-04-24" .
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/startDate> "2026-04-24" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/0764d979> .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/15579353> .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/level> "pro" .
 <https://dancehallbattle.org/battle/sistersbattle20191allfemale> <http://schema.org/endDate> "2019-06-07" .
 <https://dancehallbattle.org/battle/sistersbattle20191allfemale> <http://schema.org/endDate> "2019-06-07" _:b0 .
 <https://dancehallbattle.org/battle/sistersbattle20191allfemale> <http://schema.org/name> "5 to Smoke Female" .
@@ -408,6 +418,14 @@
 <https://dancehallbattle.org/battle/tdm20191all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/morris> _:b0 .
 <https://dancehallbattle.org/battle/tdm20191all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/tdm20191all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/dancer/0764d979> <http://schema.org/name> "Yulia" .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/0764d979> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/dancer/15579353> <http://schema.org/name> "Nina" .
+<https://dancehallbattle.org/dancer/15579353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/15579353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/15579353> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
 <https://dancehallbattle.org/dancer/3761e7e7> <http://schema.org/name> "Smood" .
 <https://dancehallbattle.org/dancer/3761e7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://dancehallbattle.org/dancer/3761e7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
@@ -671,6 +689,13 @@
 <https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20252allteens2vs2teens> .
 <https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20252pro> .
 <https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/endDate> "2026-04-26" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/name> "Rulers" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/startDate> "2026-04-23" .
+<https://dancehallbattle.org/event/rulers2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20262pro> .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
 <https://dancehallbattle.org/event/sistersbattle2019> <http://schema.org/endDate> "2019-06-07" .
 <https://dancehallbattle.org/event/sistersbattle2019> <http://schema.org/location> "se" .
 <https://dancehallbattle.org/event/sistersbattle2019> <http://schema.org/location> "se" _:b0 .
@@ -746,6 +771,32 @@
 <https://dancehallbattle.org/event/tdm2019> <http://schema.org/name> "Torino Dancehall Movement" _:b0 .
 <https://dancehallbattle.org/event/tdm2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/tdm2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/tdm20191all> _:b0 .
+
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/endDate> "2026-04-24" .
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/rulers20262pro> <http://schema.org/startDate> "2026-04-24" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "2" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/0764d979> .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/15579353> .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/rulers20262pro> <https://dancehallbattle.org/ontology/level> "pro" .
+<https://dancehallbattle.org/dancer/0764d979> <http://schema.org/name> "Yulia" .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/0764d979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/0764d979> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/dancer/15579353> <http://schema.org/name> "Nina" .
+<https://dancehallbattle.org/dancer/15579353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/15579353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/15579353> <https://dancehallbattle.org/ontology/representsCountry> "ee" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/endDate> "2026-04-26" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/location> "se" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/name> "Rulers" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/startDate> "2026-04-23" .
+<https://dancehallbattle.org/event/rulers2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20262pro> .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/instagram> "ruleroftheyear" .
 
 <https://dancehallbattle.org/battle/rulers20251allfemaleyes7tosmokequeens> <http://schema.org/endDate> "2025-04-26" .
 <https://dancehallbattle.org/battle/rulers20251allfemaleyes7tosmokequeens> <http://schema.org/name> "7 To Smoke Queens" .
