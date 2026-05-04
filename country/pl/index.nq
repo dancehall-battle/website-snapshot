@@ -299,6 +299,16 @@
 <https://dancehallbattle.org/battle/rulers20251pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/weronikaklodkowska> _:b0 .
 <https://dancehallbattle.org/battle/rulers20251pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/rulers20251pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <http://schema.org/endDate> "2026-04-24" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <http://schema.org/name> "7toSmoke Dancehall" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <http://schema.org/startDate> "2026-04-24" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/weronikaklodkowska> _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/inviteOnly> "yes" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/endDate> "2023-10-29" .
 <https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/endDate> "2023-10-29" _:b0 .
 <https://dancehallbattle.org/battle/spalparkiet20231all-14> <http://schema.org/name> "(null)" .
@@ -607,6 +617,10 @@
 <https://dancehallbattle.org/event/rulers2025> <http://schema.org/name> "Rulers" _:b0 .
 <https://dancehallbattle.org/event/rulers2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/rulers2025> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20251pro> _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/name> "Rulers" _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20261allyes7tosmokedancehall> _:b0 .
 <https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/endDate> "2023-10-29" .
 <https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/location> "pl" .
 <https://dancehallbattle.org/event/spalparkiet2023> <http://schema.org/location> "pl" _:b0 .

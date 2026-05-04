@@ -123,6 +123,16 @@
 <https://dancehallbattle.org/battle/rootsrhythms20231pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/rootsrhythms20231pro> <https://dancehallbattle.org/ontology/level> "pro" .
 <https://dancehallbattle.org/battle/rootsrhythms20231pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <http://schema.org/endDate> "2026-04-24" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <http://schema.org/name> "7toSmoke Queens" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <http://schema.org/startDate> "2026-04-24" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/gender> "female" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/mihaelapopescu> _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/inviteOnly> "yes" _:b0 .
+<https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/snbbattle-2019-11pro> <http://schema.org/endDate> "2019-02-10" _:b0 .
 <https://dancehallbattle.org/battle/snbbattle-2019-11pro> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/snbbattle-2019-11pro> <http://schema.org/startDate> "2019-02-10" _:b0 .
@@ -314,6 +324,10 @@
 <https://dancehallbattle.org/event/rootsrhythms2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rootsrhythms20231pro> .
 <https://dancehallbattle.org/event/rootsrhythms2023> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rootsrhythms20231pro> _:b0 .
 <https://dancehallbattle.org/event/rootsrhythms2023> <https://dancehallbattle.org/ontology/instagram> "rootsandrhythms.event" .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <http://schema.org/name> "Rulers" _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/rulers2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/rulers20261allfemaleyes7tosmokequeens> _:b0 .
 <https://dancehallbattle.org/event/snbbattle-2019-1> <http://schema.org/location> "md" _:b0 .
 <https://dancehallbattle.org/event/snbbattle-2019-1> <http://schema.org/name> "SNB Battle 2019" _:b0 .
 <https://dancehallbattle.org/event/snbbattle-2019-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
