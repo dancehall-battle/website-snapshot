@@ -665,6 +665,12 @@
 <https://dancehallbattle.org/event/dancehallfever2025> <http://schema.org/startDate> "2025-05-17" .
 <https://dancehallbattle.org/event/dancehallfever2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallfever2025> <https://dancehallbattle.org/ontology/instagram> "dancehallfevertn" .
+<https://dancehallbattle.org/event/dancehallfever2026> <http://schema.org/endDate> "2026-05-09" .
+<https://dancehallbattle.org/event/dancehallfever2026> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/dancehallfever2026> <http://schema.org/name> "Dancehall Fever - The Event" .
+<https://dancehallbattle.org/event/dancehallfever2026> <http://schema.org/startDate> "2026-05-09" .
+<https://dancehallbattle.org/event/dancehallfever2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallfever2026> <https://dancehallbattle.org/ontology/instagram> "dancehallfevertn" .
 <https://dancehallbattle.org/event/dancehallfiesta-vol2> <http://schema.org/endDate> "2019-12-16" .
 <https://dancehallbattle.org/event/dancehallfiesta-vol2> <http://schema.org/location> "cn" .
 <https://dancehallbattle.org/event/dancehallfiesta-vol2> <http://schema.org/name> "Dancehall Fiesta Vol. 2" .
