@@ -1247,6 +1247,12 @@
 <https://dancehallbattle.org/event/extremecrimea2021> <http://schema.org/startDate> "2021-07-12" .
 <https://dancehallbattle.org/event/extremecrimea2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/extremecrimea2021> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/feeldiflow2026> <http://schema.org/endDate> "2026-08-29" .
+<https://dancehallbattle.org/event/feeldiflow2026> <http://schema.org/location> "fr" .
+<https://dancehallbattle.org/event/feeldiflow2026> <http://schema.org/name> "FEEL DI FLOW 2026" .
+<https://dancehallbattle.org/event/feeldiflow2026> <http://schema.org/startDate> "2026-08-29" .
+<https://dancehallbattle.org/event/feeldiflow2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/feeldiflow2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/feelthebeat2023-2> <http://schema.org/endDate> "2023-12-03" .
 <https://dancehallbattle.org/event/feelthebeat2023-2> <http://schema.org/location> "ee" .
 <https://dancehallbattle.org/event/feelthebeat2023-2> <http://schema.org/name> "Feel The Beat" .
