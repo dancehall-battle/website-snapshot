@@ -425,6 +425,12 @@
 <https://dancehallbattle.org/event/burnitup-vol1> <http://schema.org/startDate> "2019-06-16" .
 <https://dancehallbattle.org/event/burnitup-vol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/burnitup-vol1> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/bussablank2026> <http://schema.org/endDate> "2026-07-04" .
+<https://dancehallbattle.org/event/bussablank2026> <http://schema.org/location> "ro" .
+<https://dancehallbattle.org/event/bussablank2026> <http://schema.org/name> "BUSS A BLANK" .
+<https://dancehallbattle.org/event/bussablank2026> <http://schema.org/startDate> "2026-07-04" .
+<https://dancehallbattle.org/event/bussablank2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/bussablank2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/caribbeanafroweekend2024> <http://schema.org/endDate> "2024-09-15" .
 <https://dancehallbattle.org/event/caribbeanafroweekend2024> <http://schema.org/location> "cz" .
 <https://dancehallbattle.org/event/caribbeanafroweekend2024> <http://schema.org/name> "Caribbean & Afro Weekend" .
