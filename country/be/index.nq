@@ -513,6 +513,25 @@
 <https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/slimb> _:b0 .
 <https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/endDate> "2026-08-08" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/endDate> "2026-08-08" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/startDate> "2026-08-08" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/startDate> "2026-08-08" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/ravage> .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/ravage> _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/endDate> "2023-06-24" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/name> "(null)" _:b0 .
 <https://dancehallbattle.org/battle/massiveweekendvol11all> <http://schema.org/startDate> "2023-06-24" _:b0 .
@@ -912,6 +931,17 @@
 <https://dancehallbattle.org/event/linkupde2024> <http://schema.org/name> "Link up" _:b0 .
 <https://dancehallbattle.org/event/linkupde2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/linkupde2024> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkupde20241all1vs1maledancehall> _:b0 .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/endDate> "2026-08-08" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/location> "be" _:b0 .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/name> "LINK UP PARTY - BIRTHDAY EDITION" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/name> "LINK UP PARTY - BIRTHDAY EDITION" _:b0 .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/startDate> "2026-08-08" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> _:b0 .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/location> "es" _:b0 .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://schema.org/name> "Massive Weekend Vol. 1" _:b0 .
 <https://dancehallbattle.org/event/massiveweekendvol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
@@ -943,6 +973,27 @@
 <https://dancehallbattle.org/event/tdm2019> <http://schema.org/name> "Torino Dancehall Movement" _:b0 .
 <https://dancehallbattle.org/event/tdm2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/tdm2019> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/tdm20191allfemale> _:b0 .
+
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/endDate> "2026-08-08" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/name> "(null)" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <http://schema.org/startDate> "2026-08-08" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/age> "all" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/gender> "all" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/ravage> .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/inviteOnly> "no" .
+<https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> <https://dancehallbattle.org/ontology/level> "all" .
+<https://dancehallbattle.org/dancer/ravage> <http://schema.org/name> "Ravage" .
+<https://dancehallbattle.org/dancer/ravage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://dancehallbattle.org/dancer/ravage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/Dancer> .
+<https://dancehallbattle.org/dancer/ravage> <https://dancehallbattle.org/ontology/representsCountry> "be" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/endDate> "2026-08-08" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/name> "LINK UP PARTY - BIRTHDAY EDITION" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://schema.org/startDate> "2026-08-08" .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/linkuppartybirthdayedition20261all> .
+<https://dancehallbattle.org/event/linkuppartybirthdayedition2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 
 <https://dancehallbattle.org/battle/friendlybattle2026041all> <http://schema.org/endDate> "2026-04-29" .
 <https://dancehallbattle.org/battle/friendlybattle2026041all> <http://schema.org/name> "(null)" .

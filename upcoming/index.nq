@@ -2027,6 +2027,12 @@
 <https://dancehallbattle.org/event/moneyinthebank2022> <http://schema.org/startDate> "2022-01-30" .
 <https://dancehallbattle.org/event/moneyinthebank2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/moneyinthebank2022> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/moodcamp2026> <http://schema.org/endDate> "2026-08-29" .
+<https://dancehallbattle.org/event/moodcamp2026> <http://schema.org/location> "be" .
+<https://dancehallbattle.org/event/moodcamp2026> <http://schema.org/name> "Mood Camp 2026" .
+<https://dancehallbattle.org/event/moodcamp2026> <http://schema.org/startDate> "2026-08-29" .
+<https://dancehallbattle.org/event/moodcamp2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/moodcamp2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/mortaltrapbattle-2020> <http://schema.org/endDate> "2020-01-19" .
 <https://dancehallbattle.org/event/mortaltrapbattle-2020> <http://schema.org/location> "md" .
 <https://dancehallbattle.org/event/mortaltrapbattle-2020> <http://schema.org/name> "Mortal Trap Battle" .
