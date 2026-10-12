@@ -611,6 +611,12 @@
 <https://dancehallbattle.org/event/dancehallbattleprodance2021> <http://schema.org/startDate> "2021-10-16" .
 <https://dancehallbattle.org/event/dancehallbattleprodance2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallbattleprodance2021> <https://dancehallbattle.org/ontology/instagram> "(null)" .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <http://schema.org/endDate> "2026-11-08" .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <http://schema.org/location> "kr" .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <http://schema.org/name> "Dancehall Camp Seoul 2026" .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <http://schema.org/startDate> "2026-11-07" .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallcampseoul2026> <https://dancehallbattle.org/ontology/instagram> "(null)" .
 <https://dancehallbattle.org/event/dancehallchallenge-2019> <http://schema.org/endDate> "2019-11-30" .
 <https://dancehallbattle.org/event/dancehallchallenge-2019> <http://schema.org/location> "pl" .
 <https://dancehallbattle.org/event/dancehallchallenge-2019> <http://schema.org/name> "Dancehall Challenge 2019" .
@@ -755,6 +761,12 @@
 <https://dancehallbattle.org/event/dancehallmilanovybz2025> <http://schema.org/startDate> "2025-12-06" .
 <https://dancehallbattle.org/event/dancehallmilanovybz2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
 <https://dancehallbattle.org/event/dancehallmilanovybz2025> <https://dancehallbattle.org/ontology/instagram> "dancehall.milano" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <http://schema.org/endDate> "2026-12-05" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <http://schema.org/location> "it" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <http://schema.org/name> "Dancehall Milano Vybz" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <http://schema.org/startDate> "2026-12-05" .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> .
+<https://dancehallbattle.org/event/dancehallmilanovybz2026> <https://dancehallbattle.org/ontology/instagram> "dancehall.milano" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/endDate> "2022-10-23" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/location> "fr" .
 <https://dancehallbattle.org/event/dancehallonstage2022> <http://schema.org/name> "Dancehall On Stage" .
