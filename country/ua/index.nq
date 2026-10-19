@@ -1167,6 +1167,16 @@
 <https://dancehallbattle.org/battle/nittygritty20222all> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/vikkirevenkova> _:b0 .
 <https://dancehallbattle.org/battle/nittygritty20222all> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
 <https://dancehallbattle.org/battle/nittygritty20222all> <https://dancehallbattle.org/ontology/level> "all" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <http://schema.org/endDate> "2026-10-10" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <http://schema.org/name> "(null)" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <http://schema.org/startDate> "2026-10-10" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceBattle> _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/age> "all" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/amountOfParticipants> "1" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/gender> "all" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/hasWinner> <https://dancehallbattle.org/dancer/vixmi> _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/inviteOnly> "no" _:b0 .
+<https://dancehallbattle.org/battle/nordicdynamite20261pro> <https://dancehallbattle.org/ontology/level> "pro" _:b0 .
 <https://dancehallbattle.org/battle/pullup20231beginners> <http://schema.org/endDate> "2023-06-11" .
 <https://dancehallbattle.org/battle/pullup20231beginners> <http://schema.org/endDate> "2023-06-11" _:b0 .
 <https://dancehallbattle.org/battle/pullup20231beginners> <http://schema.org/name> "(null)" .
@@ -2520,6 +2530,10 @@
 <https://dancehallbattle.org/event/nittygritty2022> <http://schema.org/name> "Nitty Gritty" _:b0 .
 <https://dancehallbattle.org/event/nittygritty2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
 <https://dancehallbattle.org/event/nittygritty2022> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/nittygritty20222all> _:b0 .
+<https://dancehallbattle.org/event/nordicdynamite2026> <http://schema.org/location> "se" _:b0 .
+<https://dancehallbattle.org/event/nordicdynamite2026> <http://schema.org/name> "Nordic Dynamite" _:b0 .
+<https://dancehallbattle.org/event/nordicdynamite2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dancehallbattle.org/ontology/DanceEvent> _:b0 .
+<https://dancehallbattle.org/event/nordicdynamite2026> <https://dancehallbattle.org/ontology/hasBattle> <https://dancehallbattle.org/battle/nordicdynamite20261pro> _:b0 .
 <https://dancehallbattle.org/event/pullup2023> <http://schema.org/endDate> "2023-06-11" .
 <https://dancehallbattle.org/event/pullup2023> <http://schema.org/location> "ua" .
 <https://dancehallbattle.org/event/pullup2023> <http://schema.org/location> "ua" _:b0 .
